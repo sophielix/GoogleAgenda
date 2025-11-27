@@ -1671,7 +1671,7 @@ DTEND;VALUE=DATE:20251029T000000
 RRULE:FREQ=YEARLY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🌱Si octobre s'emplit de vents, du froid tu p�tiras longtemps.
+SUMMARY:🌱Si octobre s'emplit de vents, du froid tu patiras longtemps.
 DTSTAMP:20251030T000000
 DTSTART;VALUE=DATE:20251030T000000
 DTEND;VALUE=DATE:20251030T000000
@@ -1693,7 +1693,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🌱Le 2 novembre est le jour des morts, si tu ne veux pas mourir encore, habille-toi plus fort.
 DTSTAMP:20251102T000000
-DESCRIPTION:🌱En novembre s'il tonne, l'annee sera bonne. Novembre est le jour des morts, si tu ne veux pas mourir encore, habille-toi plus fort.
+DESCRIPTION:🌱En novembre s'il tonne, l'annee sera bonne. \nNovembre est le jour des morts, si tu ne veux pas mourir encore, habille-toi plus fort.
 DTSTART;VALUE=DATE:20251102T000000
 DTEND;VALUE=DATE:20251102T000000
 RRULE:FREQ=YEARLY
