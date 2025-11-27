@@ -1680,12 +1680,12 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🌱a la Toussaint, commence l' ete de la Saint-Martin.
 DTSTAMP:20251101T000000
-DESCRIPTION:"🌱Vent de Toussaint, terreur de marin.  
+DESCRIPTION:🌱Vent de Toussaint, terreur de marin.  
 Suivant le temps de la Toussaint, l'hiver sera ou non malsain. 
 De la Toussaint a la fin de l'Avent, jamais trop de pluie ou de vent.  
 Telle Toussaint tel Noel, et Paques pareil. 
 Autant d'heures de soleil a la Toussaint, autant de semaines a souffler dans tes mains. 
-La Toussaint venue, rentre la charrue."
+La Toussaint venue, rentre la charrue.
 DTSTART;VALUE=DATE:20251101T000000
 DTEND;VALUE=DATE:20251101T000000
 RRULE:FREQ=YEARLY
