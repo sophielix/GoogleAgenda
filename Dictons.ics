@@ -1,0 +1,2768 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME;VALUE=TEXT:Dictons
+BEGIN:VEVENT
+SUMMARY:🌱Le vent du jour de l'an existe moitie de l'an (Marne)
+DTSTAMP:20250101T000000
+DESCRIPTION:🌱Le mauvais an entre en nageant\n🌱Orage en janvier, l'hiver est avorte\n🌱Jour de l'an beau, mois d'aout tres chaud\n🌱A l'an neuf, les jours croissent du pas d'un boeuf\n🌱Bon jour et bon an, la paille au cul, et le feu dedans\n🌱Quand l'orage se fait entendre en janvier, on l'entendra tous les autres mois de l'annee.
+DTSTART;VALUE=DATE:20250101T000000
+DTEND;VALUE=DATE:20250101T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Le temps du deux janvier presage celui de septembre.
+DTSTAMP:20250102T000000
+DTSTART;VALUE=DATE:20250102T000000
+DTEND;VALUE=DATE:20250102T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Sainte-Genevieve ne sort point si Saint-Marceau (Marcel) ne la rejoint.
+DTSTAMP:20250103T000000
+DTSTART;VALUE=DATE:20250103T000000
+DTEND;VALUE=DATE:20250103T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱De Sainte-Pharailde la chaleur c'est la colere et notre malheur.
+DTSTAMP:20250104T000000
+DTSTART;VALUE=DATE:20250104T000000
+DTEND;VALUE=DATE:20250104T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A la Saint-Gerlac le temps froid et serein l'annee sera bonne et fertile c'est certain.
+DTSTAMP:20250105T000000
+DTSTART;VALUE=DATE:20250105T000000
+DTEND;VALUE=DATE:20250105T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Saint Julien porte la glace\n🌱S'il ne la brise, c'est qu'il l'embrasse
+DTSTAMP:20250106T000000
+DESCRIPTION:🌱Beaux jours aux Rois, ble jusqu'au toit\n🌱Si le soir des Rois beaucoup d'etoiles tu vois ; auras secheresse en ete et oeufs au poulailler.
+DTSTART;VALUE=DATE:20250106T000000
+DTEND;VALUE=DATE:20250106T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱S'il gele a la Saint-Raymond, l'hiver est encore long.
+DTSTAMP:20250107T000000
+DTSTART;VALUE=DATE:20250107T000000
+DTEND;VALUE=DATE:20250107T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Au jour de Sainte-Gudule, le jour croit, mais le froid ne recule.
+DTSTAMP:20250108T000000
+DTSTART;VALUE=DATE:20250108T000000
+DTEND;VALUE=DATE:20250108T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Saint-Julien brise la glace, s'il ne la brise c'est elle qui l'embrasse.
+DTSTAMP:20250109T000000
+DESCRIPTION:🌱Pour Saint-Adrien, le froid nous revient.
+DTSTART;VALUE=DATE:20250109T000000
+DTEND;VALUE=DATE:20250109T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Entre le 10 et le 20 janvier, les plus constants sont les chapiers (drapiers).
+DTSTAMP:20250110T000000
+DTSTART;VALUE=DATE:20250110T000000
+DTEND;VALUE=DATE:20250110T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Janvier d'eau chiche fait le paysan riche
+DTSTAMP:20250111T000000
+DTSTART;VALUE=DATE:20250111T000000
+DTEND;VALUE=DATE:20250111T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Arcade et Hilaire Gelent les rivieres
+DTSTAMP:20250112T000000
+DESCRIPTION:🌱Les douze premiers jours de janvier, indiquent le temps qu'il fera les douze mois de l'annee.
+DTSTART;VALUE=DATE:20250112T000000
+DTEND;VALUE=DATE:20250112T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Du soleil pour Saint-Hilarion (Hilaire), il faudra force tisons.
+DTSTAMP:20250113T000000
+DESCRIPTION:🌱S'il neige a la Saint-Hilaire, il fera froid tout l'hiver\n🌱A la Saint-Hilaire, le jour croit d'un pas de bergere\n🌱Soleil et chaleur a la Saint-Hilaire n'indiquent pas la fin de l'hiver\n🌱 Qui file le jour de Saint-Hilaire est sur de filer son suaire.
+DTSTART;VALUE=DATE:20250113T000000
+DTEND;VALUE=DATE:20250113T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Soleil de Sainte-Nina, Pour un long hiver rentre ton bois.
+DTSTAMP:20250114T000000
+DTSTART;VALUE=DATE:20250114T000000
+DTEND;VALUE=DATE:20250114T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱S'il gele a la Saint-Maur, la moitie de l'hiver est dehors.
+DTSTAMP:20250115T000000
+DTSTART;VALUE=DATE:20250115T000000
+DTEND;VALUE=DATE:20250115T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Prepare pour Saint-Marcel, tes graines nouvelles.
+DTSTAMP:20250116T000000
+DTSTART;VALUE=DATE:20250116T000000
+DTEND;VALUE=DATE:20250116T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Pour la Saint-Antoine, il fait froid, meme dans l'huile.
+DTSTAMP:20250117T000000
+DESCRIPTION:🌱A la Sainte-Rose, pour le travailleur pas de pause.
+DTSTART;VALUE=DATE:20250117T000000
+DTEND;VALUE=DATE:20250117T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Neige a Sainte-Prisca Va apporter une belle annee que voila.
+DTSTAMP:20250118T000000
+DESCRIPTION:🌱Saint-Pierre pluvieux est pour trente jours dangereux\n🌱A la chaire du bon Saint-Pierre, l'hiver s'en va s'il ne resserre\n🌱A la Saint-Pierre, l'hiver s'en va ou se resserre\n🌱 Neige de la Sainte-Prisca, va apporter une belle annee que voila.
+DTSTART;VALUE=DATE:20250118T000000
+DTEND;VALUE=DATE:20250118T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Janvier frileux, gele l'oiseau sur ses oeufs.
+DTSTAMP:20250119T000000
+DTSTART;VALUE=DATE:20250119T000000
+DTEND;VALUE=DATE:20250119T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱S'il gele pour la Saint Sebastien la mauvaise herbe ne revient
+DTSTAMP:20250120T000000
+DESCRIPTION:🌱A la Saint-Sebastien, l'hiver reprend ou se casse les dents.
+DTSTART;VALUE=DATE:20250120T000000
+DTEND;VALUE=DATE:20250120T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱De la Sainte-Agnes la douceur ne nous fait pas croire que l'hiver meurt.
+DTSTAMP:20250121T000000
+DESCRIPTION:🌱Jour de Saint-Agnes, jamais trop de froid ne laisse\n🌱A la Sainte-Agnes, l'hiver sans amour ne progresse\n🌱A Sainte-Agnes, une heure de plus\n🌱Pour Sainte-Agnes et Saint-Fructueux, les plus grands froids.
+DTSTART;VALUE=DATE:20250121T000000
+DTEND;VALUE=DATE:20250121T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A la Saint Dominique, ne te plains pas si le soleil te pique.
+DTSTAMP:20250122T000000
+DESCRIPTION:🌱A Saint-Vincent une claire journee, nous annonce une bonne annee\n🌱Quand Saint-Vincent est clair et beau, il y a du vin comme de l'eau\n🌱A la Saint-Vincent, l'hiver prend ou se casse les dents.
+DTSTART;VALUE=DATE:20250122T000000
+DTEND;VALUE=DATE:20250122T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Pour la sainte Emerance l'hiver danse\n🌱Pour la sainte Emerance, les jours rallongent d'une aune de gance.
+DTSTAMP:20250123T000000
+DESCRIPTION:🌱Saint-Barnard ensoleille rend le vigneron gai.
+DTSTART;VALUE=DATE:20250123T000000
+DTEND;VALUE=DATE:20250123T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Neige de Saint-Babylas, bien souvent on s'en lasse.
+DTSTAMP:20250124T000000
+DTSTART;VALUE=DATE:20250124T000000
+DTEND;VALUE=DATE:20250124T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Soleil de Saint-Priest, abondance de millet.
+DTSTAMP:20250125T000000
+DESCRIPTION:🌱De Saint-Paul la claire journee, nous denote une bonne annee\n🌱A la Saint-Paul, l'hiver se casse ou se recolle.
+DTSTART;VALUE=DATE:20250125T000000
+DTEND;VALUE=DATE:20250125T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Secheresse de janvier, richesse de fermier.
+DTSTAMP:20250126T000000
+DESCRIPTION:🌱Sainte-Paule sec et beau, remplit greniers et tonneaux.
+DTSTART;VALUE=DATE:20250126T000000
+DTEND;VALUE=DATE:20250126T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Apres la Sainte Angele, le jardinier ne craint plus le gel.
+DTSTAMP:20250127T000000
+DTSTART;VALUE=DATE:20250127T000000
+DTEND;VALUE=DATE:20250127T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Saint-Charlemagne, Fevrier en armes !
+DTSTAMP:20250128T000000
+DTSTART;VALUE=DATE:20250128T000000
+DTEND;VALUE=DATE:20250128T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱S'il gele a Saint-Sulpice, le printemps sera propice.
+DTSTAMP:20250129T000000
+DTSTART;VALUE=DATE:20250129T000000
+DTEND;VALUE=DATE:20250129T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A la Saint-Hippolyte, bien souvent l'hiver nous quitte.
+DTSTAMP:20250130T000000
+DESCRIPTION:🌱Compte bien fin janvier, que tu as mange la moitie de ton grenier.
+DTSTART;VALUE=DATE:20250130T000000
+DTEND;VALUE=DATE:20250130T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Compte bien que fin janvier que tu as mange la moitie de ton grenier.
+DTSTAMP:20250131T000000
+DESCRIPTION:🌱Si janvier est doux comme fevrier, fevrier est rude comme janvier.
+DTSTART;VALUE=DATE:20250131T000000
+DTEND;VALUE=DATE:20250131T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Fleur de fevrier, va mal au pommier.
+DTSTAMP:20250201T000000
+DTSTART;VALUE=DATE:20250201T000000
+DTEND;VALUE=DATE:20250201T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A la Chandeleur les grandes douleurs\n🌱(Vendee)
+DTSTAMP:20250202T000000
+DESCRIPTION:🌱Si l'hiver ne fait son devoir aux mois de decembre et janvier, au plus tard il se fera voir des le debut de fevrier\n🌱Soleil au 2 fevrier, l'hiver sera prolonge\n🌱A la Chandeleur, grand froid et grande douleur\n🌱A la fete de la Chandeleur, les jours croissent de plus d'une heure, et le froid pique avec douleur\n🌱S'il pleut a la Chandeleur, les vaches donnent beaucoup de beurre\n🌱Si le deuxieme de fevrier le soleil apparait entier, l'ours etonne de sa lumiere s'en va remettre en sa taniere, et l'homme econome prend soin de faire amenager son foin ; car l'hiver, tout ainsi que l'ours, sejourne encore quarante jours\n🌱Si la Chandeleur arrivant le soleil brille au firmament, le froid sera certainement pire apres qu'il ne fut avant\n🌱Chandeleur claire, hiver derriere ; Chandeleur trouble, hiver redouble\n🌱Rosee a la Chandeleur, hiver a sa derniere demeure\n🌱Quand le soleil a la Chandeleur fait lanterne, quarante jours apres il hiverne\n🌱Si le jour de la Chandeleur il fait beau, il y aura du vin comme de l'eau.
+DTSTART;VALUE=DATE:20250202T000000
+DTEND;VALUE=DATE:20250202T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Si le jour de la Saint Blaise est serein, bon temps pour le grain
+DTSTAMP:20250203T000000
+DESCRIPTION:🌱Au lendemain de la Saint-Blaise, assez souvent l'hiver s'apaise\n🌱Si le jour de la Saint-Blaise est serein, bon temps pour le grain\n🌱 S'il ne pleut ou ne neige a la Saint-Blaise, en mars, le froid en prendra a son aise\n🌱A la Saint-Blaise l'hiver s'apaise, mais s'il redouble et s'il reprend, longtemps apres on s'en ressent.
+DTSTART;VALUE=DATE:20250203T000000
+DTEND;VALUE=DATE:20250203T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A la Saint-Isidore, si le soleil dore, le ble sera haut et chenu, mais le pommier sera nu.
+DTSTAMP:20250204T000000
+DESCRIPTION:🌱A Sainte-Veronique, les marchands de marrons plient boutique\n🌱Prends bien garde au lendemain de Saint-Blaise, s'il est serein ; car cela presage une annee tres fertile et tres fortunee\n🌱A la Saint-Isidore si le soleil dore, le ble sera hait et chenu mais le pommier sera nu.
+DTSTART;VALUE=DATE:20250204T000000
+DTEND;VALUE=DATE:20250204T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Eau qui court a la Sainte-Agathe, mettra du beurre dans la baratte.
+DTSTAMP:20250205T000000
+DESCRIPTION:🌱A la Sainte-Agathe, l'hiver se hate\n🌱 Pour la Sainte-Agathe, seme ton oignon fut-il dans la glace, il deviendra bon\n🌱Eau qui court a la Sainte-Agathe mettra du lait dans la baratte.
+DTSTART;VALUE=DATE:20250205T000000
+DTEND;VALUE=DATE:20250205T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A la Sainte-Dorothee, la plus forte neigee.
+DTSTAMP:20250206T000000
+DESCRIPTION:🌱A la Saint-Gaston, bien souvent le temps n'est pas bon.
+DTSTART;VALUE=DATE:20250206T000000
+DTEND;VALUE=DATE:20250206T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Mieux vaudrait voir un voleur au grenier qu'un homme les bras nus dans le mois de fevrier.
+DTSTAMP:20250207T000000
+DTSTART;VALUE=DATE:20250207T000000
+DTEND;VALUE=DATE:20250207T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱En fevrier s'il grele et s'il tonne, c'est marque d'un bel automne.
+DTSTAMP:20250208T000000
+DESCRIPTION:🌱A la Sainte-Jacqueline, froid et bruine.
+DTSTART;VALUE=DATE:20250208T000000
+DTEND;VALUE=DATE:20250208T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Jour de Sainte-Apolline renfrogne, c'est trois beaux mois d'ete qu'elle nous a gardes.
+DTSTAMP:20250209T000000
+DESCRIPTION:🌱S'il pleut le jour de carnaval, la terre est alteree toute l'annee\n🌱A la Sainte-Apolline presage certain, l'hiver s'achemine ou touche a sa fin.
+DTSTART;VALUE=DATE:20250209T000000
+DTEND;VALUE=DATE:20250209T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Quand fevrier commence en lion, il finit comme un mouton.
+DTSTAMP:20250210T000000
+DTSTART;VALUE=DATE:20250210T000000
+DTEND;VALUE=DATE:20250210T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Severin et ses coquins font tout geler sur le chemin.
+DTSTAMP:20250211T000000
+DTSTART;VALUE=DATE:20250211T000000
+DTEND;VALUE=DATE:20250211T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Vers la Sainte Eulalie souvent le temps varie
+DTSTAMP:20250212T000000
+DESCRIPTION:🌱Saint-Felix et la Presentation amenent le froid pour de bon\n🌱Si le soleil rit le jour de la Sainte-Eulalie, il y aura pomme et cidre a la folie.
+DTSTART;VALUE=DATE:20250212T000000
+DTEND;VALUE=DATE:20250212T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Mieux vaudrait voir un loup dans son foyer qu'un homme en chemise en Fevrier (Charentes)
+DTSTAMP:20250213T000000
+DTSTART;VALUE=DATE:20250213T000000
+DTEND;VALUE=DATE:20250213T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱S'il ne fait froid le jour d'Adam et Eve, vingt jours trop tot montera la seve.
+DTSTAMP:20250214T000000
+DTSTART;VALUE=DATE:20250214T000000
+DTEND;VALUE=DATE:20250214T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A mi-fevrier, La merlette doit couver.
+DTSTAMP:20250215T000000
+DESCRIPTION:🌱A la Saint-Claude, regarde ton seau, tu ne le verras pas plus haut\n🌱Au milieu de fevrier, le jour et la nuit sont pareils.
+DTSTART;VALUE=DATE:20250215T000000
+DTEND;VALUE=DATE:20250215T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A la Sainte-Julienne, faut toujours que le soleil vienne, s'il luit peu, bon pour les boeufs, s'il luit prou, c'est un bon aout.
+DTSTAMP:20250216T000000
+DTSTART;VALUE=DATE:20250216T000000
+DTEND;VALUE=DATE:20250216T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Si fevrier laisse les fosses pleins, les greniers seront pleins.
+DTSTAMP:20250217T000000
+DESCRIPTION:🌱Fevrier pluvieux, mars haleux, bons pour les laboureux.
+DTSTART;VALUE=DATE:20250217T000000
+DTEND;VALUE=DATE:20250217T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Fevrier trop doux presage un printemps froid.
+DTSTAMP:20250218T000000
+DESCRIPTION:🌱A la Saint-Bernadette, souvent le soleil est de la fete.
+DTSTART;VALUE=DATE:20250218T000000
+DTEND;VALUE=DATE:20250218T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Si fevrier est charge d'eau, le printemps n'en sera que plus beau.
+DTSTAMP:20250219T000000
+DESCRIPTION:🌱A la Saint-Simeon, la neige et les tisons\n🌱La nouvelle lune de fevrier, sert pour l'annee de calendrier.
+DTSTART;VALUE=DATE:20250219T000000
+DTEND;VALUE=DATE:20250219T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Quand la bise oublie fevrier, elle arrive en mai.
+DTSTAMP:20250220T000000
+DESCRIPTION:🌱Souvent a la Sainte-Aimee, la campagne est enneigee.
+DTSTART;VALUE=DATE:20250220T000000
+DTEND;VALUE=DATE:20250220T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Il est trop tard a la Saint-Pepin pour planter les arbres a pepins.
+DTSTAMP:20250221T000000
+DESCRIPTION:🌱A la Saint-Pierre-Damien, l'hiver reprend ou s'eteint.
+DTSTART;VALUE=DATE:20250221T000000
+DTEND;VALUE=DATE:20250221T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Le temps qu'il fait le jour de la Sainte-Isabelle dure jusqu'aux Rameaux.
+DTSTAMP:20250222T000000
+DESCRIPTION:🌱Neige a la Sainte-Isabelle, fait la fleur plus belle.
+DTSTART;VALUE=DATE:20250222T000000
+DTEND;VALUE=DATE:20250222T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱a la Saint-Florent, l'hiver s'en va ou reprend.
+DTSTAMP:20250223T000000
+DESCRIPTION:🌱Souvent a la Saint-Lazare, le froid gagne ou file a la montagne\n🌱A la Saint-Florent il fait bon de semer le froment\n🌱A la Saint-Florent qui seme son froment ne doit pas perdre de temps.
+DTSTART;VALUE=DATE:20250223T000000
+DTEND;VALUE=DATE:20250223T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Si fevrier n'est pas pluvieux, menage ton grenier.
+DTSTAMP:20250224T000000
+DESCRIPTION:🌱A la Saint-Modeste, repique tes choux s'il t'en reste\n🌱A la Saint-Mathias, jour et nuit ne different pas\n🌱Quand Saint-Mathias trouve de la glace, il la casse\n🌱Saint-Mathias, le replatreur, sans neige ne pourrait faire\n🌱Saint-Mathias casse la glace ; s'il n'y en a pas, il en fera\n🌱Qui se signe a la Saint-Mathias, un an de sante il aura\n🌱A la Saint-Mathias, la pie fait son nid.
+DTSTART;VALUE=DATE:20250224T000000
+DTEND;VALUE=DATE:20250224T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Fevrier entre tous les mois, le plus court et le moins courtois.
+DTSTAMP:20250225T000000
+DESCRIPTION:🌱S'il fait beau et sec a la Saint-Romeo, garde du foin pour tes chevaux\n🌱Il vaut mieux voir un loup dans le troupeau, qu'un mois de fevrier trop beau\n🌱Lune de Mardi-Gras, tonnerre entendra.
+DTSTART;VALUE=DATE:20250225T000000
+DTEND;VALUE=DATE:20250225T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Fevrier, le plus court des mois, est de tous le pire a la fois.
+DTSTAMP:20250226T000000
+DESCRIPTION:🌱Vents forts a la Saint-Nestor, bon vin a la Saint-Marcellin\n🌱S'il tonne en fevrier, point de vin tire.
+DTSTART;VALUE=DATE:20250226T000000
+DTEND;VALUE=DATE:20250226T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Gelee de Sainte-Honorine rend toute la vallee chagrine.
+DTSTAMP:20250227T000000
+DTSTART;VALUE=DATE:20250227T000000
+DTEND;VALUE=DATE:20250227T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱N'aie nulle peur de l'annee bissextile mais de celle d'avant et de celle d'apres.
+DTSTAMP:20250228T000000
+DESCRIPTION:🌱Si fevrier chaud par aventure, a Paques il remet sa froidure\n🌱Si fevrier ne fevrotte, mars vient apres qui marmotte\n🌱Ciel clair a la Saint-Romain, c'est beaucoup de bien et de bon vin\n🌱Beau ciel a la Saint-Romain, il y aura des denrees et du bon vin\n🌱Fevrier est des mois de l'annee, le moins long et le plus mauvais\n🌱Si fevrier ne frevote, mars vient qui le garrotte\n🌱Quand fevrier n�est pas rigoureux, mars ecorche\n🌱Fevrier trop doux, printemps en courroux.
+DTSTART;VALUE=DATE:20250228T000000
+DTEND;VALUE=DATE:20250228T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Quand fevrier prend un jour, souvent de catastrophes il est lourd.
+DTSTAMP:20250301T000000
+DTSTART;VALUE=DATE:20250301T000000
+DTEND;VALUE=DATE:20250301T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Quand il pleut a la Saint Aubin, il n'y aura ni lin ni foin
+DTSTAMP:20250301T000000
+DESCRIPTION:🌱Au commencement ou a la fin, mars a son poison et venin.
+DTSTART;VALUE=DATE:20250301T000000
+DTEND;VALUE=DATE:20250301T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A la Saint-Jacob, dans nos pays, les pies commencent leurs nids.
+DTSTAMP:20250302T000000
+DESCRIPTION:🌱Si mars commence en courroux, il finira tout doux, tout doux\n🌱A la Saint-Jacob, dans nos pays, les pies commencent leurs nids\n🌱Mars venteux ; vergers pommeux.
+DTSTART;VALUE=DATE:20250302T000000
+DTEND;VALUE=DATE:20250302T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A la Sainte-Cunegonde la terre redevient feconde.
+DTSTAMP:20250303T000000
+DESCRIPTION:🌱A Sainte-Cunegonde le tonnerre, annonce un deuxieme hiver.
+DTSTART;VALUE=DATE:20250303T000000
+DTEND;VALUE=DATE:20250303T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱De Casimir la douceur fait peur aux jardiniers et aux laboureurs.
+DTSTAMP:20250304T000000
+DESCRIPTION:🌱Bonhomme ne regarde jamais ton ble en mars, ta fille en mai.
+DTSTART;VALUE=DATE:20250304T000000
+DTEND;VALUE=DATE:20250304T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Souvent a la Saint-Adrien, gelee ne gele que les mains.
+DTSTAMP:20250305T000000
+DESCRIPTION:🌱Quand en mars il pleut dru, il n'a pas assez plu\n🌱Souvent, a la Saint-Adrien, le froid mord le bout des doigts\n🌱A la Saint-Adrien, froidure ne gele que les nains.
+DTSTART;VALUE=DATE:20250305T000000
+DTEND;VALUE=DATE:20250305T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Au jour de la Sainte-Colette, commence a chanter l'alouette.
+DTSTAMP:20250306T000000
+DTSTART;VALUE=DATE:20250306T000000
+DTEND;VALUE=DATE:20250306T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Janvier fait le peche, et mars est accuse.
+DTSTAMP:20250307T000000
+DTSTART;VALUE=DATE:20250307T000000
+DTEND;VALUE=DATE:20250307T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱De Saint-Jean-de-Dieu a Saint-Gregoire (12 mars) vents et giboulees font notre desespoir.
+DTSTAMP:20250308T000000
+DESCRIPTION:🌱Quand vient Sainte-Veronique, le soleil nous fait la nique.
+DTSTART;VALUE=DATE:20250308T000000
+DTEND;VALUE=DATE:20250308T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Seme a la Sainte-Francoise, ton grain aura du poids.
+DTSTAMP:20250309T000000
+DESCRIPTION:🌱Quand en mars il pleut, sois heureux tant que tu peux.
+DTSTART;VALUE=DATE:20250309T000000
+DTEND;VALUE=DATE:20250309T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱S'il gele au jour des quarante martyrs, il gelera encore quarante jours au pire.
+DTSTAMP:20250310T000000
+DESCRIPTION:🌱Si Saint-Vivien est gele, quarante jours le jardinier aura froid aux pieds\n🌱 Pluie de mars grandit l'herbette, et souvent annonce disette\n🌱S'il gele au jour des quarante martyrs, il gelera encore quarante jours au pire.
+DTSTART;VALUE=DATE:20250310T000000
+DTEND;VALUE=DATE:20250310T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Bon redeux (eleveur de lapins), a Saint-Euloge, voit les jeunes lapins a l'auge.
+DTSTAMP:20250311T000000
+DESCRIPTION:🌱Taille tot, taille tard ; mais taille toujours en mars.
+DTSTART;VALUE=DATE:20250311T000000
+DTEND;VALUE=DATE:20250311T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Censiers, si vous voulez m'en croire, tondez vos moutons a la Saint-Gregoire.
+DTSTAMP:20250312T000000
+DESCRIPTION:🌱Le soleil de mars donne des rhumes tenaces\n🌱Le soleil de la Saint-Gregoire fait le vin bon a boire\n🌱Le jour de Saint-Pol, l'hiver se rompt le col.
+DTSTART;VALUE=DATE:20250312T000000
+DTEND;VALUE=DATE:20250312T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Belle Euphrasie met pommes a l'airie.
+DTSTAMP:20250313T000000
+DESCRIPTION:🌱Des fleurs qu'en mars on verra, peu de fruit se mangera\n🌱En mars quand il fait beau, prends un manteau.
+DTSTART;VALUE=DATE:20250313T000000
+DTEND;VALUE=DATE:20250313T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Pluie de Sainte-Mahaud n'est jamais trop.
+DTSTAMP:20250314T000000
+DESCRIPTION:🌱Mars venteux, avril pluvieux, aux ruches ne sont pas heureux.
+DTSTART;VALUE=DATE:20250314T000000
+DTEND;VALUE=DATE:20250314T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A mi-mars, le coucou est dans l'epinard (la parietaire).
+DTSTAMP:20250315T000000
+DESCRIPTION:🌱Quand en mars l'abricotier est en fleur, nuit et jour ont meme longueur\n🌱Neige de mars brule le bourgeon.
+DTSTART;VALUE=DATE:20250315T000000
+DTEND;VALUE=DATE:20250315T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Il faut que mars seche les balcons, et qu'avril les mouille.
+DTSTAMP:20250316T000000
+DESCRIPTION:🌱Soit au commencement, soit a la fin, mars nous montrera son venin.
+DTSTART;VALUE=DATE:20250316T000000
+DTEND;VALUE=DATE:20250316T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Quand il fait doux a la Saint-Patrick, de leur trou sortent les ecrevisses.
+DTSTAMP:20250317T000000
+DESCRIPTION:🌱Mars poudreux, an malheureux.
+DTSTART;VALUE=DATE:20250317T000000
+DTEND;VALUE=DATE:20250317T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A la Saint-Narcisse les mouches, aux pecheurs les touches.
+DTSTAMP:20250318T000000
+DESCRIPTION:🌱Quand mars bien mouille sera, beaucoup de fruits tu cueilleras.
+DTSTART;VALUE=DATE:20250318T000000
+DTEND;VALUE=DATE:20250318T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A la Saint-Jose (Joseph) seme tes poues (pois) (Poitou).
+DTSTAMP:20250319T000000
+DESCRIPTION:🌱Brouillard en mars, gelee en mai\n🌱 A la Saint-Joseph beau temps, promesse de bon an\n🌱Pour la Saint-Joseph chaque oiseau, batit son chateau.
+DTSTART;VALUE=DATE:20250319T000000
+DTEND;VALUE=DATE:20250319T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Entre mars et avril, on va de la table au lit.
+DTSTAMP:20250320T000000
+DTSTART;VALUE=DATE:20250320T000000
+DTEND;VALUE=DATE:20250320T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱S'il pleut le jour de Saint-Benoit, il pleut trente-sept jours plus trois.
+DTSTAMP:20250321T000000
+DESCRIPTION:🌱Ou le vent se tourne le 21 mars, il y reste jusqu'au 21 juin\n🌱 Mars sec et beau remplit cuves et tonneaux.
+DTSTART;VALUE=DATE:20250321T000000
+DTEND;VALUE=DATE:20250321T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Fleur marsiere ne tient guere.
+DTSTAMP:20250322T000000
+DESCRIPTION:🌱Quand au printemps la lune est claire, peu de noix espere.
+DTSTART;VALUE=DATE:20250322T000000
+DTEND;VALUE=DATE:20250322T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱S'il pleut le jour de Saint-Victorien, tu peux surement compter sur du bon foin.
+DTSTAMP:20250323T000000
+DESCRIPTION:🌱Fleur marsiere ne tient guere\n🌱Quand a glace il gele a la Saint-Victorien, en peches, en abricots il n'y a rien.
+DTSTART;VALUE=DATE:20250323T000000
+DTEND;VALUE=DATE:20250323T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱S'il gele le 24 Mars les poiriers diminuent d'un quart (Loir et Cher).
+DTSTAMP:20250324T000000
+DESCRIPTION:🌱C'est en mars que le printemps chante, et que le rhumatisme augmente\n🌱Quand mars fait avril, avril fait mars\n🌱S'il gele au vingt-quatre mars, les poires diminuent d'un quart.
+DTSTART;VALUE=DATE:20250324T000000
+DTEND;VALUE=DATE:20250324T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Le 25 Mars passe plus de bois amasser (Poitou)
+DTSTAMP:20250325T000000
+DESCRIPTION:🌱Quand il gele le 25 mars, gelee toute l'annee\n🌱S'il gele le 25 mars, il y aura disette de ble\n🌱S'il gele le 25 mars, les prairies diminuent d'un quart\n🌱S'il gele le 25 mars, il faut faire provision de grain et de vin\n🌱Si pour Notre-Dame le coucou n'a pas chante, il est tue ou baillone\n🌱Le vingt-cinq mars le compagnon, rend la chandelle au patron\n🌱Le 25 mars passe plus de bois amasser\n🌱Pour le 25 mars pre et treille garderas, ou la peau du cul tu y laisseras.
+DTSTART;VALUE=DATE:20250325T000000
+DTEND;VALUE=DATE:20250325T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Saint-Gabriel apporte bonnes nouvelles.
+DTSTAMP:20250326T000000
+DTSTART;VALUE=DATE:20250326T000000
+DTEND;VALUE=DATE:20250326T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A mars poudreux, avril pluvieux.
+DTSTAMP:20250327T000000
+DTSTART;VALUE=DATE:20250327T000000
+DTEND;VALUE=DATE:20250327T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A la Saint-Gontran, si la temperature est belle, arrivent les premieres hirondelles.
+DTSTAMP:20250328T000000
+DTSTART;VALUE=DATE:20250328T000000
+DTEND;VALUE=DATE:20250328T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Quand mars bien mouille sera, beaucoup de fruits cueilleras.
+DTSTAMP:20250329T000000
+DTSTART;VALUE=DATE:20250329T000000
+DTEND;VALUE=DATE:20250329T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Souvent, la Saint-Amedee, est de mars la plus belle journee.
+DTSTAMP:20250330T000000
+DESCRIPTION:🌱Mars est comme la romance, il finit comme il commence.
+DTSTART;VALUE=DATE:20250330T000000
+DTEND;VALUE=DATE:20250330T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Pour la Saint Benjamin, le mauvais temps prend fin.
+DTSTAMP:20250331T000000
+DESCRIPTION:🌱Que mars, oui ou non, veuille, il faut bien qu'avril feuille.
+DTSTART;VALUE=DATE:20250331T000000
+DTEND;VALUE=DATE:20250331T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Au 1er Avril faut que le pinson boive au buisson (Charente).
+DTSTAMP:20250401T000000
+DESCRIPTION:🌱Fleur d'avril tient par un fil\n🌱Les paques pluvieuses sont souvent fromenteuses, et souvent menteuses.
+DTSTART;VALUE=DATE:20250401T000000
+DTEND;VALUE=DATE:20250401T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A la Sainte-Theodosie la rose est la fleur choisie.
+DTSTAMP:20250402T000000
+DESCRIPTION:🌱Pluie d'avril remplit le grenier\n🌱Pluie d'avril, secheresse d'ete.
+DTSTART;VALUE=DATE:20250402T000000
+DTEND;VALUE=DATE:20250402T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Comme est fait le 3, il fait le mois.
+DTSTAMP:20250403T000000
+DESCRIPTION:🌱Qu'avril emprunte seulement trois jours a mars, ces trois jours sont mechants\n🌱 Si le coucou n'est pas la le 3 c'est que sa femme est malade (Poitou).
+DTSTART;VALUE=DATE:20250403T000000
+DTEND;VALUE=DATE:20250403T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Si les quatre premiers jours d'avril sont venteux il y en aura pour quarante jours.
+DTSTAMP:20250404T000000
+DESCRIPTION:🌱Ne crois pas de l'hiver avoir atteint la fin, que la lune d'avril n'ait accompli son plein.
+DTSTART;VALUE=DATE:20250404T000000
+DTEND;VALUE=DATE:20250404T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A la Sainte-Irene s'il fait beau, il y aura moins de vin que d'eau.
+DTSTAMP:20250405T000000
+DESCRIPTION:🌱Janvier fait le pont, fevrier le rompt ; avril fait la fleur, mai s'en donne l'honneur.
+DTSTART;VALUE=DATE:20250405T000000
+DTEND;VALUE=DATE:20250405T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Au jour de Saint-Prudence, s'il pleut, s'il vente, peu apres le mouton danse.
+DTSTAMP:20250406T000000
+DESCRIPTION:🌱Belles journees en avril, preparent un mois de mai fertile.
+DTSTART;VALUE=DATE:20250406T000000
+DTEND;VALUE=DATE:20250406T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Quand mars a fait l'ete, avril met son manteau.
+DTSTAMP:20250407T000000
+DESCRIPTION:🌱Avril entrant comme un agneau, s'en retourne comme un taureau.
+DTSTART;VALUE=DATE:20250407T000000
+DTEND;VALUE=DATE:20250407T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A la Sainte-Julie, le soleil ne quitte pas son lit.
+DTSTAMP:20250408T000000
+DESCRIPTION:🌱Avril pluvieux et mai venteux, ne rendent pas le paysan disetteux.
+DTSTART;VALUE=DATE:20250408T000000
+DTEND;VALUE=DATE:20250408T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A Sainte-Waudru (9 avril) et Saint-Macaire, on revoit les giboulees d'hiver.
+DTSTAMP:20250409T000000
+DESCRIPTION:🌱A la Saint-Gauthier, jamais le jour entier ne passe sans quelques giboulees.
+DTSTART;VALUE=DATE:20250409T000000
+DTEND;VALUE=DATE:20250409T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Quand arrive la Saint-Fulbert, dans la campagne tout est vert.
+DTSTAMP:20250410T000000
+DTSTART;VALUE=DATE:20250410T000000
+DTEND;VALUE=DATE:20250410T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱S'il gele a la Saint-Stanislas, on aura deux jours de glace.
+DTSTAMP:20250411T000000
+DESCRIPTION:🌱Avril fait la fleur, Mai en a l'honneur.
+DTSTART;VALUE=DATE:20250411T000000
+DTEND;VALUE=DATE:20250411T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A Saint-Jules, les sansonnets tiennent menages dans les clochers.
+DTSTAMP:20250412T000000
+DESCRIPTION:🌱A la Saint-Jules, mauvais temps, n'est pas installe pour longtemps.
+DTSTART;VALUE=DATE:20250412T000000
+DTEND;VALUE=DATE:20250412T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A la mi-avril, le ble est a l'epi.
+DTSTAMP:20250413T000000
+DESCRIPTION:🌱Si la pluie d'avril vaut son pesant d'or, quand le tonnerre va, c'est un tresor.
+DTSTART;VALUE=DATE:20250413T000000
+DTEND;VALUE=DATE:20250413T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Si Saint Lambert est pluvieux, suivent neuf jours dangeureux
+DTSTAMP:20250414T000000
+DTSTART;VALUE=DATE:20250414T000000
+DTEND;VALUE=DATE:20250414T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Quand de Saint-Paterne vient la saison, la chaleur vient pour de bon.
+DTSTAMP:20250415T000000
+DTSTART;VALUE=DATE:20250415T000000
+DTEND;VALUE=DATE:20250415T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Saint-Druon pluvieux, an fromenteux.
+DTSTAMP:20250416T000000
+DESCRIPTION:🌱Il n'est point d'avril si beau, qui n'ait de neige a son chapeau.
+DTSTART;VALUE=DATE:20250416T000000
+DTEND;VALUE=DATE:20250416T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Avril froid, pain et vin donne, mai froid les moissonne.
+DTSTAMP:20250417T000000
+DESCRIPTION:🌱Beau temps a la Saint-Anicet, est l'annonce d'un bel ete.
+DTSTART;VALUE=DATE:20250417T000000
+DTEND;VALUE=DATE:20250417T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Lune d'avril ne passe pas sans gelee.
+DTSTAMP:20250418T000000
+DTSTART;VALUE=DATE:20250418T000000
+DTEND;VALUE=DATE:20250418T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A la Sainte-Leonide, chaque ble pousse rapide.
+DTSTAMP:20250419T000000
+DESCRIPTION:🌱Sainte-Emma prend la derniere neige de l'an.
+DTSTART;VALUE=DATE:20250419T000000
+DTEND;VALUE=DATE:20250419T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A Sainte-Theodore, fleurit le bouton d'or.
+DTSTAMP:20250420T000000
+DTSTART;VALUE=DATE:20250420T000000
+DTEND;VALUE=DATE:20250420T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A Saint-Anselme, dernieres fleurs seme.
+DTSTAMP:20250421T000000
+DESCRIPTION:🌱Tel temps a la Saint-Anselme, tel temps pendant une semaine.
+DTSTART;VALUE=DATE:20250421T000000
+DTEND;VALUE=DATE:20250421T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Pour Saint-Agapit, si tu ne veux pas suer, enleve tes habits.
+DTSTAMP:20250422T000000
+DESCRIPTION:🌱Pluie de Sainte-Opportune, ni cerises ni prunes\n🌱A la Sainte-Opportune beau temps, fruits d'ete abondants.
+DTSTART;VALUE=DATE:20250422T000000
+DTEND;VALUE=DATE:20250422T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Quand il pleut pour la Saint-Georges, adieu les cerises.
+DTSTAMP:20250423T000000
+DESCRIPTION:🌱Le vin d'avril est un vin de Dieu, le vin de mai est un vin de laquais.
+DTSTART;VALUE=DATE:20250423T000000
+DTEND;VALUE=DATE:20250423T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Octobre est bon s'il est de saison.
+DTSTAMP:20250424T000000
+DTSTART;VALUE=DATE:20250424T000000
+DTEND;VALUE=DATE:20250424T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Entre Georges et Marquet, un jour de l'hiver se met.
+DTSTAMP:20250425T000000
+DESCRIPTION:🌱A la Saint-Marc s'il tombe de l'eau, il n'y aura pas de fruits a noyaux.
+DTSTART;VALUE=DATE:20250425T000000
+DTEND;VALUE=DATE:20250425T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Si trente et un jour avril avait, personne ne s'en plaindrait.
+DTSTAMP:20250426T000000
+DTSTART;VALUE=DATE:20250426T000000
+DTEND;VALUE=DATE:20250426T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A la Sainte-Zita, le froid ne dure pas.
+DTSTAMP:20250427T000000
+DESCRIPTION:🌱Quand la lune rousse est passee, on ne craint plus la gelee.
+DTSTART;VALUE=DATE:20250427T000000
+DTEND;VALUE=DATE:20250427T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A la Sainte-Valerie, souvent le soleil luit.
+DTSTAMP:20250428T000000
+DESCRIPTION:🌱Il n'est si gentil mois d'avril, qui n'ait son manteau de gresil.
+DTSTART;VALUE=DATE:20250428T000000
+DTEND;VALUE=DATE:20250428T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Pluie de Saint Hugues a Sainte Sophie remplit les granges et les barils.
+DTSTAMP:20250429T000000
+DESCRIPTION:🌱Si rosee et fraicheur en mai, vin a la vigne et foin au pre.
+DTSTART;VALUE=DATE:20250429T000000
+DTEND;VALUE=DATE:20250429T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A la Saint-Robert tout arbre est vert.
+DTSTAMP:20250430T000000
+DESCRIPTION:🌱A la Saint-Robert, tout arbre est vert.
+DTSTART;VALUE=DATE:20250430T000000
+DTEND;VALUE=DATE:20250430T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Quand il pleut le premier jour de mai les vaches perdent la moitie de leur lait (Poitou).
+DTSTAMP:20250501T000000
+DESCRIPTION:🌱De la pluie le premier jour de mai, ote aux fourrages leur qualite.
+DTSTART;VALUE=DATE:20250501T000000
+DTEND;VALUE=DATE:20250501T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱C'est a la Saint-Antonin que vend son vin le malin.
+DTSTAMP:20250502T000000
+DESCRIPTION:🌱Du mois de mai la chaleur, de tout l'an fait la valeur.
+DTSTART;VALUE=DATE:20250502T000000
+DTEND;VALUE=DATE:20250502T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Si Saint-Jacques l'apotre pleure, bien peu de glands il demeure.
+DTSTAMP:20250503T000000
+DESCRIPTION:🌱Lorsqu'il pleut le 3 mai, point de noix au noyer\n🌱Au 3 mai ensoleille, un bel ete est assure.
+DTSTART;VALUE=DATE:20250503T000000
+DTEND;VALUE=DATE:20250503T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱C'est a la Saint-Antonin, que vend son vin le malin.
+DTSTAMP:20250504T000000
+DESCRIPTION:🌱Le temps est vite rechauffe, par les doux rayons du soleil de mai.
+DTSTART;VALUE=DATE:20250504T000000
+DTEND;VALUE=DATE:20250504T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Le temps de Sainte-Judith, va durer jusqu'au dix-huit.
+DTSTAMP:20250505T000000
+DESCRIPTION:🌱Sainte-Judith voit pinson au nid.
+DTSTART;VALUE=DATE:20250505T000000
+DTEND;VALUE=DATE:20250505T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Soleil a la petite Saint-Jean, mois de mai fleurissant.
+DTSTAMP:20250506T000000
+DESCRIPTION:🌱Mai fait ou defait.
+DTSTART;VALUE=DATE:20250506T000000
+DTEND;VALUE=DATE:20250506T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Mai frileux : an langoureux\n🌱Mai fleuri : an rejoui.
+DTSTAMP:20250507T000000
+DESCRIPTION:🌱S'il pleut a la petite Saint-Jean, toute l'annee s'en ressent.
+DTSTART;VALUE=DATE:20250507T000000
+DTEND;VALUE=DATE:20250507T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A la Saint-Arsene, mets au sec tes graines.
+DTSTAMP:20250508T000000
+DESCRIPTION:🌱Vin de mai, piquette de chai.
+DTSTART;VALUE=DATE:20250508T000000
+DTEND;VALUE=DATE:20250508T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Le mois de mai de l'annee, decide la destinee.
+DTSTAMP:20250509T000000
+DESCRIPTION:🌱Brouillard de mai et chaleur de juin, amenent la moisson a point.
+DTSTART;VALUE=DATE:20250509T000000
+DTEND;VALUE=DATE:20250509T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Chaleur au mois de mai, de tout l'an fait la beaute.
+DTSTAMP:20250510T000000
+DTSTART;VALUE=DATE:20250510T000000
+DTEND;VALUE=DATE:20250510T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Attention, le premier des saints de glace, souvent tu en gardes la trace.
+DTSTAMP:20250511T000000
+DTSTART;VALUE=DATE:20250511T000000
+DTEND;VALUE=DATE:20250511T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Saint Pancrace, Gervais et Boniface apportent souvent la glace (Saints de Glace)
+DTSTAMP:20250512T000000
+DTSTART;VALUE=DATE:20250512T000000
+DTEND;VALUE=DATE:20250512T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Avant Saint-Servais, point d'ete, apres Saint-Servais, plus de gelee.
+DTSTAMP:20250513T000000
+DTSTART;VALUE=DATE:20250513T000000
+DTEND;VALUE=DATE:20250513T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Saint Mathias casse la glace, mais s'il n'en trouve pas il faut bien qu'il en fasse.
+DTSTAMP:20250514T000000
+DESCRIPTION:🌱Saint-Boniface nous ote la boue, ou il nous en met jusqu'au cou.
+DTSTART;VALUE=DATE:20250514T000000
+DTEND;VALUE=DATE:20250514T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A la Saint Denise s'arrete la bise.
+DTSTAMP:20250515T000000
+DESCRIPTION:🌱A la Saint-Isidore, la derniere gelee.
+DTSTART;VALUE=DATE:20250515T000000
+DTEND;VALUE=DATE:20250515T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A la mi mai queue de l'hiver, Saint Honore que de pois verts.
+DTSTAMP:20250516T000000
+DTSTART;VALUE=DATE:20250516T000000
+DTEND;VALUE=DATE:20250516T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Tonnerre de Saint-Pascal sans grele, ce n'est pas un mal.
+DTSTAMP:20250517T000000
+DESCRIPTION:🌱A la Saint-Pascal, s'il fait beau l'ete sera meridional.
+DTSTART;VALUE=DATE:20250517T000000
+DTEND;VALUE=DATE:20250517T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A la Sainte-Coralie, tous les lilas sont fleuris.
+DTSTAMP:20250518T000000
+DESCRIPTION:🌱Bon fermier a Sainte-Juliette, doit vendre ses poulettes.
+DTSTART;VALUE=DATE:20250518T000000
+DTEND;VALUE=DATE:20250518T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱S'il pleut a la Saint-Urbain, C'est quarante jours de pluie en chemin.
+DTSTAMP:20250519T000000
+DTSTART;VALUE=DATE:20250519T000000
+DTEND;VALUE=DATE:20250519T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱S'il pleut a la Saint-Bernardin, tu peux dire adieu a ton vin.
+DTSTAMP:20250520T000000
+DTSTART;VALUE=DATE:20250520T000000
+DTEND;VALUE=DATE:20250520T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Plus mai est chaud, plus l'an vaut.
+DTSTAMP:20250521T000000
+DTSTART;VALUE=DATE:20250521T000000
+DTEND;VALUE=DATE:20250521T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A Sainte-Emilie, Luzerne a pleine faucille.
+DTSTAMP:20250522T000000
+DESCRIPTION:🌱Beau temps du jour Sainte-Emilie, donne du fruit a la folie.
+DTSTART;VALUE=DATE:20250522T000000
+DTEND;VALUE=DATE:20250522T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Qui seme des haricots a la Saint-Didier les recoltera par poignees (Deux-Sevres).
+DTSTAMP:20250523T000000
+DESCRIPTION:🌱A la Saint-Didier soleil orgueilleux, nous annonce un ete joyeux.
+DTSTART;VALUE=DATE:20250523T000000
+DTEND;VALUE=DATE:20250523T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Apres Sainte-Angele, le jardinier ne craint plus le gel.
+DTSTAMP:20250524T000000
+DTSTART;VALUE=DATE:20250524T000000
+DTEND;VALUE=DATE:20250524T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Apres la Saint-Urbain, plus ne gelent vin ni pain.
+DTSTAMP:20250525T000000
+DESCRIPTION:🌱Lune pale le soir ou le matin fait tomber de l'eau de la nue\n🌱(Lozere)
+DTSTART;VALUE=DATE:20250525T000000
+DTEND;VALUE=DATE:20250525T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Quand il pleut a la Saint-Philippe, le pauvre n'a pas besoin du riche.
+DTSTAMP:20250526T000000
+DESCRIPTION:🌱Soleil a la Saint-Berengere, presage d'un bel ete et hiver.
+DTSTART;VALUE=DATE:20250526T000000
+DTEND;VALUE=DATE:20250526T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A la Saint-Ildevert, est mort tout arbre qui n'est point vert.
+DTSTAMP:20250527T000000
+DTSTART;VALUE=DATE:20250527T000000
+DTEND;VALUE=DATE:20250527T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Soleil de Saint-Germain, nous promet du bon vin.
+DTSTAMP:20250528T000000
+DESCRIPTION:🌱A la Saint-Gerard, la recolte est encore au hasard\n🌱A la Saint-Germain, les jours sont beaux tous les matins.
+DTSTART;VALUE=DATE:20250528T000000
+DTEND;VALUE=DATE:20250528T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A la Saint-Gerard, les radis sont encore rares.
+DTSTAMP:20250529T000000
+DTSTART;VALUE=DATE:20250529T000000
+DTEND;VALUE=DATE:20250529T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Lorsque mai est trop jardinier, cela ne remplit pas le grenier.
+DTSTAMP:20250530T000000
+DTSTART;VALUE=DATE:20250530T000000
+DTEND;VALUE=DATE:20250530T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Pluie de Sainte Petronille change raisin en grapilles
+DTSTAMP:20250531T000000
+DESCRIPTION:🌱S'il pleut a la Sainte-Petronille, pendant quarante jours elle trempe ses guenilles.
+DTSTART;VALUE=DATE:20250531T000000
+DTEND;VALUE=DATE:20250531T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱S'il pleut a la Saint-Trinite, le ble diminue de moitie.
+DTSTAMP:20250601T000000
+DESCRIPTION:🌱Beau mois de juin, change l'herbe en beau foin.
+DTSTART;VALUE=DATE:20250601T000000
+DTEND;VALUE=DATE:20250601T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A la Saint-Pothin, bonhomme, seme ton sarrasin.
+DTSTAMP:20250602T000000
+DESCRIPTION:🌱Saint-Marcellin, bon pour l'eau, bon pour le vin.
+DTSTART;VALUE=DATE:20250602T000000
+DTEND;VALUE=DATE:20250602T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Le temps qu'il fait en juin le trois, sera le temps de tout le mois.
+DTSTAMP:20250603T000000
+DESCRIPTION:🌱Eau de juin ruine le moulin.
+DTSTART;VALUE=DATE:20250603T000000
+DTEND;VALUE=DATE:20250603T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A la Sainte-Clotilde, de fleur en buisson, Abeille butine a foison.
+DTSTAMP:20250604T000000
+DTSTART;VALUE=DATE:20250604T000000
+DTEND;VALUE=DATE:20250604T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Prepare autant de tonneaux Qu'en juin tu compteras de beaux jours.
+DTSTAMP:20250605T000000
+DESCRIPTION:🌱Abeilles en mai valent un louis d'or, abeilles en juin c'est chance encore.
+DTSTART;VALUE=DATE:20250605T000000
+DTEND;VALUE=DATE:20250605T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Les bains que prend Saint-Norbert Innondent la terre.
+DTSTAMP:20250606T000000
+DTSTART;VALUE=DATE:20250606T000000
+DTEND;VALUE=DATE:20250606T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱En juin trop de pluie Et le grenier vide s'ennuie.
+DTSTAMP:20250607T000000
+DTSTART;VALUE=DATE:20250607T000000
+DTEND;VALUE=DATE:20250607T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱S'il pleut pour la Saint Medard, il pleut 40 jours plus tard sauf si Saint Barnabe lui coupe l'herbe sous le pied ; mais entre eux deux Saint-Gervais jugera le proces.
+DTSTAMP:20250608T000000
+DTSTART;VALUE=DATE:20250608T000000
+DTEND;VALUE=DATE:20250608T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Juin fait pousser le lin, et juillet le rend fin.
+DTSTAMP:20250609T000000
+DTSTART;VALUE=DATE:20250609T000000
+DTEND;VALUE=DATE:20250609T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A la Saint-Landry, s'il tonne Restera vide la tonne.
+DTSTAMP:20250610T000000
+DTSTART;VALUE=DATE:20250610T000000
+DTEND;VALUE=DATE:20250610T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱S'il pleut a la Saint Medard et que la Saint Barnabe ne lui coupe le pied, il pleut quarante jours plus tard.
+DTSTAMP:20250611T000000
+DTSTART;VALUE=DATE:20250611T000000
+DTEND;VALUE=DATE:20250611T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Juin et juillet en fraicheur, en aout orages et chaleurs.
+DTSTAMP:20250612T000000
+DTSTART;VALUE=DATE:20250612T000000
+DTEND;VALUE=DATE:20250612T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Saint Antoine clair et beau emplit cuves et tonneaux.(Saintonge)
+DTSTAMP:20250613T000000
+DESCRIPTION:🌱A la Saint-Antoine, les jours croissent du pas d'un moine.
+DTSTART;VALUE=DATE:20250613T000000
+DTEND;VALUE=DATE:20250613T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱S'il tonne au mois de Juin annee de paille et de foin.(Indre)
+DTSTAMP:20250614T000000
+DTSTART;VALUE=DATE:20250614T000000
+DTEND;VALUE=DATE:20250614T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Soleil a la Sainte-Germaine, beau temps pour toute la semaine
+DTSTAMP:20250615T000000
+DESCRIPTION:🌱Quand il pleut le 15 juin, il n'y a pas de raisins\n🌱Pluie de Saint-Guy, c'est tout l'an qui rit.
+DTSTART;VALUE=DATE:20250615T000000
+DTEND;VALUE=DATE:20250615T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Pluie de Saint-Aurelien, belle avoine et mauvais foin.
+DTSTAMP:20250616T000000
+DESCRIPTION:🌱Si le jour de Saint-Fargeau la lune se fait dans l'eau, le reste du mois est beau.
+DTSTART;VALUE=DATE:20250616T000000
+DTEND;VALUE=DATE:20250616T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Soleil a la Saint-Herve, fait presager d'un bel ete.
+DTSTAMP:20250617T000000
+DTSTART;VALUE=DATE:20250617T000000
+DTEND;VALUE=DATE:20250617T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Saint-Gervais, quand il est beau, tire Saint-Medard de l'eau.
+DTSTAMP:20250619T000000
+DESCRIPTION:🌱Quand il pleut le jour de Saint-Gervais, il pleut quarante jours apres.
+DTSTART;VALUE=DATE:20250619T000000
+DTEND;VALUE=DATE:20250619T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Pluie d'orage a la Saint-Silvere, C'est beaucoup de vin dans le verre.
+DTSTAMP:20250620T000000
+DTSTART;VALUE=DATE:20250620T000000
+DTEND;VALUE=DATE:20250620T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Juin froid et pluvieux, tout l'an sera grincheux.
+DTSTAMP:20250621T000000
+DTSTART;VALUE=DATE:20250621T000000
+DTEND;VALUE=DATE:20250621T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A la Saint-Alban On peut poser ses vetements.
+DTSTAMP:20250622T000000
+DTSTART;VALUE=DATE:20250622T000000
+DTEND;VALUE=DATE:20250622T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Le sage dit qu'a la Sainte-Audrey, mieux vaut suer que grelotter.
+DTSTAMP:20250623T000000
+DTSTART;VALUE=DATE:20250623T000000
+DTEND;VALUE=DATE:20250623T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Pluie a la Saint-Jean dure longtemps.
+DTSTAMP:20250624T000000
+DESCRIPTION:🌱Eau de Saint Jean peu de vin et pas de froment.(Poitou) A la Saint-Jean, qui voit une pomme en voit cent\n🌱Montre-moi une olive a la Saint-Jean, je t'en montrerai mille a la Toussaint.
+DTSTART;VALUE=DATE:20250624T000000
+DTEND;VALUE=DATE:20250624T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱S'il fait beau a la Saint-Guillaume, auras du ble plus que de chaume.
+DTSTAMP:20250625T000000
+DTSTART;VALUE=DATE:20250625T000000
+DTEND;VALUE=DATE:20250625T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱En juin trop de pluie, Et le jardinier s'ennuie.
+DTSTAMP:20250626T000000
+DTSTART;VALUE=DATE:20250626T000000
+DTEND;VALUE=DATE:20250626T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱S'il pleut en juin, Le jardinier ronge son poing.
+DTSTAMP:20250627T000000
+DESCRIPTION:🌱Temps de la Saint-Fernand, chaleur et soleil riant.
+DTSTART;VALUE=DATE:20250627T000000
+DTEND;VALUE=DATE:20250627T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Le jour de la Saint-Irenee, c'est l'un des plus beaux de l'annee.
+DTSTAMP:20250628T000000
+DTSTART;VALUE=DATE:20250628T000000
+DTEND;VALUE=DATE:20250628T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Saint Paul et Pierre pluvieux est pour trente jours dangereux, mais si la journee est saine elle annonce une annee sereine.
+DTSTAMP:20250629T000000
+DESCRIPTION:🌱De Saint-Paul la claire journee, nous denote une bonne annee.
+DTSTART;VALUE=DATE:20250629T000000
+DTEND;VALUE=DATE:20250629T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Prepare autant de bons tonneaux qu'en juin tu compteras de jours beaux.(Saintonge)
+DTSTAMP:20250630T000000
+DESCRIPTION:🌱En fin juin vent du soir, pour le ble bon espoir.
+DTSTART;VALUE=DATE:20250630T000000
+DTEND;VALUE=DATE:20250630T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A la Saint-Thierry, aux champs jour et nuit.
+DTSTAMP:20250701T000000
+DESCRIPTION:🌱Premier juillet pluvieux, les jours suivants douteux.
+DTSTART;VALUE=DATE:20250701T000000
+DTEND;VALUE=DATE:20250701T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱La pluie de la Visitation, tombe six semaines sur la maison.
+DTSTAMP:20250702T000000
+DESCRIPTION:🌱En juillet mois d'abondance, le pauvre a toujours sa pitance.
+DTSTART;VALUE=DATE:20250702T000000
+DTEND;VALUE=DATE:20250702T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A la Saint-Thomas, les jours sont au plus bas.
+DTSTAMP:20250703T000000
+DESCRIPTION:🌱Pour la Saint-Thomas, allume si tu n'y vois pas.
+DTSTART;VALUE=DATE:20250703T000000
+DTEND;VALUE=DATE:20250703T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Pour la Sainte-Berthe, moisson ouverte.
+DTSTAMP:20250704T000000
+DESCRIPTION:🌱Qui veut bon navet le seme en juillet.
+DTSTART;VALUE=DATE:20250704T000000
+DTEND;VALUE=DATE:20250704T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A Sainte-Zoe, jeunes oes (oies).
+DTSTAMP:20250705T000000
+DESCRIPTION:🌱Juillet sans orage, famine au village.
+DTSTART;VALUE=DATE:20250705T000000
+DTEND;VALUE=DATE:20250705T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Si juillet est beau prepare les tonneaux.
+DTSTAMP:20250706T000000
+DESCRIPTION:🌱Si le debut de juillet est pluvieux, le restant du mois sera douteux.
+DTSTART;VALUE=DATE:20250706T000000
+DTEND;VALUE=DATE:20250706T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Quand a Saint-Raoul, le soleil brille, c'est le moissonneur qui grille.
+DTSTAMP:20250707T000000
+DESCRIPTION:🌱Jamais en juillet secheresse, n'a cause la moindre detresse.
+DTSTART;VALUE=DATE:20250707T000000
+DTEND;VALUE=DATE:20250707T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A la Saint-Edgar, on entend du coucou le dernier chant.
+DTSTAMP:20250708T000000
+DTSTART;VALUE=DATE:20250708T000000
+DTEND;VALUE=DATE:20250708T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Lorsque vole bas l'aronde (hirondelle) attends alors que la pluie tombe.(Charente)
+DTSTAMP:20250709T000000
+DESCRIPTION:🌱Avec Sainte-Procule, arrive la canicule.
+DTSTART;VALUE=DATE:20250709T000000
+DTEND;VALUE=DATE:20250709T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Pluie du 10 juillet, mouille sept fois du moissonneur le bonnet.
+DTSTAMP:20250710T000000
+DESCRIPTION:🌱Le jour de Sainte-Felicite se voit venir avec gaite, car c'est le plus beau jour de l'ete.
+DTSTART;VALUE=DATE:20250710T000000
+DTEND;VALUE=DATE:20250710T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Pour Saint Benoit le coucou chante aux bons endroits ; si pour Notre Dame il n'a pas chante, il est tue ou baillonne.
+DTSTAMP:20250711T000000
+DESCRIPTION:🌱S'il pleut le jour de Saint-Benoit, il pleuvra 37 jours plus 3.
+DTSTART;VALUE=DATE:20250711T000000
+DTEND;VALUE=DATE:20250711T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Chaud juillet sur frais juin, peu de ble mais bon vin.
+DTSTAMP:20250712T000000
+DESCRIPTION:🌱Juillet, orage de nuit, peu de mal mais que de bruit !
+DTSTART;VALUE=DATE:20250712T000000
+DTEND;VALUE=DATE:20250712T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A Saint-Henri suee, mauvaise moissonnee.
+DTSTAMP:20250713T000000
+DTSTART;VALUE=DATE:20250713T000000
+DTEND;VALUE=DATE:20250713T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Pluie du matin, en juillet est bonne au vin.
+DTSTAMP:20250714T000000
+DTSTART;VALUE=DATE:20250714T000000
+DTEND;VALUE=DATE:20250714T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Si la Saint Jacques est serein, l'hiver sera dur et chagrin.
+DTSTAMP:20250715T000000
+DESCRIPTION:🌱Juillet sans orage, famine au village.
+DTSTART;VALUE=DATE:20250715T000000
+DTEND;VALUE=DATE:20250715T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Mieux vaut chevre que vache a lait quand la bonne Dame de Carmel est arrivee.
+DTSTAMP:20250716T000000
+DTSTART;VALUE=DATE:20250716T000000
+DTEND;VALUE=DATE:20250716T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Moucherons au coucher du soleil pour demain un temps vermeil.
+DTSTAMP:20250717T000000
+DTSTART;VALUE=DATE:20250717T000000
+DTEND;VALUE=DATE:20250717T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Juillet ne s'est jamais passe Sans voir du ble nouveau sasse (mis en sac).
+DTSTAMP:20250718T000000
+DTSTART;VALUE=DATE:20250718T000000
+DTEND;VALUE=DATE:20250718T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A la Saint-Arsene, mets au sec tes graines.
+DTSTAMP:20250719T000000
+DESCRIPTION:🌱A la Sainte-Marguerite, forte pluie est maudite.
+DTSTART;VALUE=DATE:20250719T000000
+DTEND;VALUE=DATE:20250719T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A Saint-Apollinaire, derniere semaille de laitue en pleine terre.
+DTSTAMP:20250720T000000
+DTSTART;VALUE=DATE:20250720T000000
+DTEND;VALUE=DATE:20250720T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱S'il pleut a la Saint Victor la recolte n'est pas d'or\n🌱(Deux-Sevres)
+DTSTAMP:20250721T000000
+DTSTART;VALUE=DATE:20250721T000000
+DTEND;VALUE=DATE:20250721T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A la Madeleine la noix est pleine\n🌱(Saintonge)
+DTSTAMP:20250722T000000
+DESCRIPTION:🌱S'il pleut a la Sainte-Madeleine, il pleut durant six semaines\n🌱A la Sainte-Madeleine, il pleut souvent, car elle vit son maitre en pleurant.
+DTSTART;VALUE=DATE:20250722T000000
+DTEND;VALUE=DATE:20250722T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Nuages de la Sainte-Brigitte, par le soleil sont chasses vite.
+DTSTAMP:20250723T000000
+DTSTART;VALUE=DATE:20250723T000000
+DTEND;VALUE=DATE:20250723T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A la Sainte-Christine, les bles perdent leurs racines.
+DTSTAMP:20250724T000000
+DESCRIPTION:🌱Quand en ete on voit des champignons sur le fumier c'est la pluie pour de bon.(Loir-et-Cher)
+DTSTART;VALUE=DATE:20250724T000000
+DTEND;VALUE=DATE:20250724T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Si tu as vu Saint-Christophe, tu ne crains aucune catastrophe.
+DTSTAMP:20250725T000000
+DESCRIPTION:🌱Si Saint-Jacques est serein, l'hiver sera dur et chagrin.
+DTSTART;VALUE=DATE:20250725T000000
+DTEND;VALUE=DATE:20250725T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱S'il pleut a la Sainte-Anne il pleut un mois et une semaine\n🌱(Poitou)
+DTSTAMP:20250726T000000
+DESCRIPTION:🌱Temps rouge au couchant annonce pour demain du vent\n🌱(Vosges)
+DTSTART;VALUE=DATE:20250726T000000
+DTEND;VALUE=DATE:20250726T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Pour leur fete, souvent les sept Dormants redressent le temps.
+DTSTAMP:20250727T000000
+DTSTART;VALUE=DATE:20250727T000000
+DTEND;VALUE=DATE:20250727T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A la Saint-Samson, le temps est bon.
+DTSTAMP:20250728T000000
+DTSTART;VALUE=DATE:20250728T000000
+DTEND;VALUE=DATE:20250728T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Souvent quand Saint-Lazare appelle le froid, il n'en reste pas.
+DTSTAMP:20250729T000000
+DESCRIPTION:🌱Mauvais temps le jour de Sainte-Marthe, n'est rien, car il faut qu'il parte.
+DTSTART;VALUE=DATE:20250729T000000
+DTEND;VALUE=DATE:20250729T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A Saint-Abdon, murs sont les melons.
+DTSTAMP:20250730T000000
+DESCRIPTION:🌱A la Sainte-Juliette, l'ete est en fete.
+DTSTART;VALUE=DATE:20250730T000000
+DTEND;VALUE=DATE:20250730T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Au jour de Saint-Ignace, moissonne quelque temps qu'il fasse.
+DTSTAMP:20250731T000000
+DESCRIPTION:🌱S'il pleut a la Saint-Germain, c'est comme s'il pleuvait du vin.
+DTSTART;VALUE=DATE:20250731T000000
+DTEND;VALUE=DATE:20250731T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Lorsqu'il pleut au 1er aout, les noisettes sont piquees de poux.
+DTSTAMP:20250801T000000
+DESCRIPTION:🌱Quand l'aout est bon, abondance a la maison.
+DTSTART;VALUE=DATE:20250801T000000
+DTEND;VALUE=DATE:20250801T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A la Saint-Etienne, chacun trouve la sienne.
+DTSTAMP:20250802T000000
+DESCRIPTION:🌱Saint-Julien brise glace ; s'il ne la brise, il l'embrasse\n🌱Si le jour de Saint-Julien est trouble, il met le vin au double.
+DTSTART;VALUE=DATE:20250802T000000
+DTEND;VALUE=DATE:20250802T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Tels les trois premiers jours d'aout, tel le temps de l'automne.
+DTSTAMP:20250803T000000
+DESCRIPTION:🌱En aout comme aux vendanges ni fetes ni dimanches (Provence)
+DTSTART;VALUE=DATE:20250803T000000
+DTEND;VALUE=DATE:20250803T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Pour leur fete, souvent Les sept Dormants redressent le temps.
+DTSTAMP:20250804T000000
+DTSTART;VALUE=DATE:20250804T000000
+DTEND;VALUE=DATE:20250804T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A la Saint-Abel, faites vos confitures de mirabelles
+DTSTAMP:20250805T000000
+DESCRIPTION:🌱S'il pleut en aout il pleut du miel et du mout.(Var)
+DTSTART;VALUE=DATE:20250805T000000
+DTEND;VALUE=DATE:20250805T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Aout en secheresse n'apporte point de richesse\n🌱(Provence)
+DTSTAMP:20250806T000000
+DTSTART;VALUE=DATE:20250806T000000
+DTEND;VALUE=DATE:20250806T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Le mois d'aout est toujours chaud quand le premier de l'an est beau.
+DTSTAMP:20250807T000000
+DTSTART;VALUE=DATE:20250807T000000
+DTEND;VALUE=DATE:20250807T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A la Saint-Dominique, te plains pas si le soleil pique.
+DTSTAMP:20250808T000000
+DESCRIPTION:🌱Au mois d'aout le vent est fou\n🌱(Normandie)
+DTSTART;VALUE=DATE:20250808T000000
+DTEND;VALUE=DATE:20250808T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Mois d'aout pluvieux, Rend le cep vineux.
+DTSTAMP:20250809T000000
+DTSTART;VALUE=DATE:20250809T000000
+DTEND;VALUE=DATE:20250809T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A la Sainte-Madeleine, les noisettes sont pleines ; a la Saint-Laurent on regarde dedans.
+DTSTAMP:20250810T000000
+DESCRIPTION:🌱A Saint-Antoine grande froidure, a Saint-Laurent grands chauds ne durent\n🌱Saint-Laurent partage l'ete par le milieu\n🌱Pour la Saint-Laurent, tout fruit est bon pour les dents\n🌱Qui seme pour Saint-Laurent, y perd la graine et puis le temps.
+DTSTART;VALUE=DATE:20250810T000000
+DTEND;VALUE=DATE:20250810T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A la Sainte Claire, s'il eclaire et tonne, c'est l'annonce d'un bel automne.
+DTSTAMP:20250811T000000
+DESCRIPTION:🌱Si, le jour de Sainte-Claire, la journee est chaude et claire, comptez sur les fruits a couteau, a coup sir ils seront beaux.
+DTSTART;VALUE=DATE:20250811T000000
+DTEND;VALUE=DATE:20250811T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Quand aout est pluvieux, Septembre est radieux.
+DTSTAMP:20250812T000000
+DTSTART;VALUE=DATE:20250812T000000
+DTEND;VALUE=DATE:20250812T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A la Sainte Radegonde, quand l'eau abonde la misere est dans le monde.
+DTSTAMP:20250813T000000
+DESCRIPTION:🌱Le temps du 13 aout, dure quatre jours.
+DTSTART;VALUE=DATE:20250813T000000
+DTEND;VALUE=DATE:20250813T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A la Saint-Eusebe, ponte de poule est faible.
+DTSTAMP:20250814T000000
+DTSTART;VALUE=DATE:20250814T000000
+DTEND;VALUE=DATE:20250814T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Le quinze aout, le coucou perd son chant ; c'est la caille qui le reprend.
+DTSTAMP:20250815T000000
+DESCRIPTION:🌱S'il pleut pour l'Assomption, tout va en perdition\n🌱 Au 15 aout gros nuages en l'air, c'est la neige pour l'hiver\n🌱A la mi-aout, l'hiver se noue.
+DTSTART;VALUE=DATE:20250815T000000
+DTEND;VALUE=DATE:20250815T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱De Saint-Roch la grande chaleur, prepare du vin la couleur.
+DTSTAMP:20250816T000000
+DESCRIPTION:🌱A la mi-aout le temps s'arrange ou defait tout\n🌱(Provence)
+DTSTART;VALUE=DATE:20250816T000000
+DTEND;VALUE=DATE:20250816T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A la Saint-Hyacinthe, on peut semer sans crainte.
+DTSTAMP:20250817T000000
+DTSTART;VALUE=DATE:20250817T000000
+DTEND;VALUE=DATE:20250817T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A la Sainte-Helene, la noix est pleine et le cerneau se met dans l'eau.
+DTSTAMP:20250818T000000
+DTSTART;VALUE=DATE:20250818T000000
+DTEND;VALUE=DATE:20250818T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Aout tarit les fonts ou emporte les ponts.
+DTSTAMP:20250819T000000
+DTSTART;VALUE=DATE:20250819T000000
+DTEND;VALUE=DATE:20250819T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A la Saint-Bernard, fauche le pre.
+DTSTAMP:20250820T000000
+DESCRIPTION:🌱Temps sec en aout et gros nuages bleus, neige tout l'hiver\n🌱(Nord)
+DTSTART;VALUE=DATE:20250820T000000
+DTEND;VALUE=DATE:20250820T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Si tu as vu Saint-Christophe, Tu ne crains aucune catastrophe.
+DTSTAMP:20250821T000000
+DTSTART;VALUE=DATE:20250821T000000
+DTEND;VALUE=DATE:20250821T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Beaucoup de belettes blanches pour St-Symphorien disent que l'hiver est en chemin.
+DTSTAMP:20250822T000000
+DTSTART;VALUE=DATE:20250822T000000
+DTEND;VALUE=DATE:20250822T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱La nuit d'aout trompe les sages et les fous.
+DTSTAMP:20250823T000000
+DTSTART;VALUE=DATE:20250823T000000
+DTEND;VALUE=DATE:20250823T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Pluie de Saint Barthelemy chacun s'en fi\n🌱(Poitou)
+DTSTAMP:20250824T000000
+DESCRIPTION:🌱A la Saint-Barthelemy, s'il fait beau du vin plein les tonneaux\n🌱A la Saint-Barthelemy, la noix quitte son nid.
+DTSTART;VALUE=DATE:20250824T000000
+DTEND;VALUE=DATE:20250824T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Si la lune de la Saint Louis se fait en beau, sois rejoui\n🌱(Vendee)
+DTSTAMP:20250825T000000
+DESCRIPTION:🌱Beau temps pour la Saint-Louis, plusieurs jours sans pluie.
+DTSTART;VALUE=DATE:20250825T000000
+DTEND;VALUE=DATE:20250825T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A la Saint-Cesaire, la derniere forte chaleur en l'air.
+DTSTAMP:20250826T000000
+DTSTART;VALUE=DATE:20250826T000000
+DTEND;VALUE=DATE:20250826T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Pluie d'aout fait truffes et marrons\n🌱(Deux-Sevres)
+DTSTAMP:20250827T000000
+DTSTART;VALUE=DATE:20250827T000000
+DTEND;VALUE=DATE:20250827T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A la Saint-Augustin, le soleil a grille le serpolet et le thym.
+DTSTAMP:20250828T000000
+DESCRIPTION:🌱C'est comme s'il pleuvait du vin, fine pluie a Saint-Augustin.
+DTSTART;VALUE=DATE:20250828T000000
+DTEND;VALUE=DATE:20250828T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Pluie a la Sainte-Sabine est une grace divine.
+DTSTAMP:20250829T000000
+DESCRIPTION:🌱Quand les hirondelles voient la Saint-Michel, l'hiver ne vient qu'a Noel.
+DTSTART;VALUE=DATE:20250829T000000
+DTEND;VALUE=DATE:20250829T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A la Saint-Fiacre soleil ardent, pour huit jours encore du beau temps.
+DTSTAMP:20250830T000000
+DESCRIPTION:🌱Brumes en aout font tomber les chataignes\n🌱(Limousin)
+DTSTART;VALUE=DATE:20250830T000000
+DTEND;VALUE=DATE:20250830T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Temps trop beau en aout annonce un hiver en courroux.
+DTSTAMP:20250831T000000
+DTSTART;VALUE=DATE:20250831T000000
+DTEND;VALUE=DATE:20250831T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱S'il fait beau a la Saint-Gilles, cela durera jusqu'a la Saint-Michel.
+DTSTAMP:20250901T000000
+DESCRIPTION:🌱En septembre quand l'osier fleurit, le fruit murit.
+DTSTART;VALUE=DATE:20250901T000000
+DTEND;VALUE=DATE:20250901T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱En septembre, le faineant peut aller se pendre.
+DTSTAMP:20250902T000000
+DESCRIPTION:🌱Le vent qui domine aux Quatre Temps, dominera trois mois.
+DTSTART;VALUE=DATE:20250902T000000
+DTEND;VALUE=DATE:20250902T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Pluie du jour de Saint-Gregoire, autant de vin de plus a boire.
+DTSTAMP:20250903T000000
+DESCRIPTION:🌱Lorsque beaucoup d'etoiles filent en septembre, les tonneaux sont trop petits en novembre.
+DTSTART;VALUE=DATE:20250903T000000
+DTEND;VALUE=DATE:20250903T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Septembre se nomme, le mai de l'Automne.
+DTSTAMP:20250904T000000
+DTSTART;VALUE=DATE:20250904T000000
+DTEND;VALUE=DATE:20250904T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱En septembre, si trois jours il tonne, c'est un nouveau bail pour l'automne.
+DTSTAMP:20250905T000000
+DTSTART;VALUE=DATE:20250905T000000
+DTEND;VALUE=DATE:20250905T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A la saint Onesiphore, la seve s'endort
+DTSTAMP:20250906T000000
+DTSTART;VALUE=DATE:20250906T000000
+DTEND;VALUE=DATE:20250906T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A la Saint-Cloud, seme ton ble, car ce jour vaut du fumier.
+DTSTAMP:20250907T000000
+DTSTART;VALUE=DATE:20250907T000000
+DTEND;VALUE=DATE:20250907T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Pour Saint Adrien, le froid nous dit : je suis ici.
+DTSTAMP:20250908T000000
+DESCRIPTION:🌱Le temps de la nativite, dure tout un mois sans variete.
+DTSTART;VALUE=DATE:20250908T000000
+DTEND;VALUE=DATE:20250908T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Pluie de septembre travaille a la vigne et a semailles.
+DTSTAMP:20250909T000000
+DTSTART;VALUE=DATE:20250909T000000
+DTEND;VALUE=DATE:20250909T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Lorsque beaucoup d'etoiles filent en septembre, Les tonneaux sont trop petits en novembre.
+DTSTAMP:20250910T000000
+DTSTART;VALUE=DATE:20250910T000000
+DTEND;VALUE=DATE:20250910T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱En Septembre sois prudent achete graines et vetements\n🌱(Charente)
+DTSTAMP:20250911T000000
+DTSTART;VALUE=DATE:20250911T000000
+DTEND;VALUE=DATE:20250911T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Septembre en sa tournure, de mars fait la figure.
+DTSTAMP:20250912T000000
+DTSTART;VALUE=DATE:20250912T000000
+DTEND;VALUE=DATE:20250912T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Septembre humide, pas de tonneaux vides.
+DTSTAMP:20250913T000000
+DTSTART;VALUE=DATE:20250913T000000
+DTEND;VALUE=DATE:20250913T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Qui n'a pas seme a la Sainte Croix au lieu d'un grain en mettra trois\n🌱(Poitou)
+DTSTAMP:20250914T000000
+DESCRIPTION:🌱A la Sainte-Croix, cueille les pommes et gaule les noix.
+DTSTART;VALUE=DATE:20250914T000000
+DTEND;VALUE=DATE:20250914T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Orages de septembre, neiges de decembre.
+DTSTAMP:20250915T000000
+DTSTART;VALUE=DATE:20250915T000000
+DTEND;VALUE=DATE:20250915T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Qui fume son champ en le defoncant le fume pour dix ans\n🌱(Drome)
+DTSTAMP:20250916T000000
+DESCRIPTION:🌱Orages de Septembre, neiges de Decembre.
+DTSTART;VALUE=DATE:20250916T000000
+DTEND;VALUE=DATE:20250916T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Saint-Lambert pluvieux, neuf jours dangereux.
+DTSTAMP:20250917T000000
+DTSTART;VALUE=DATE:20250917T000000
+DTEND;VALUE=DATE:20250917T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱L'hirondelle en septembre abandonne le ciel refroidi de l'automne.
+DTSTAMP:20250918T000000
+DTSTART;VALUE=DATE:20250918T000000
+DTEND;VALUE=DATE:20250918T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A la Saint-Janvier, les chrysanthemes repoussent du pied.
+DTSTAMP:20250919T000000
+DESCRIPTION:🌱Qui seme a la Saint-Janvier, de l'an recolte le premier.
+DTSTART;VALUE=DATE:20250919T000000
+DTEND;VALUE=DATE:20250919T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Gelee blanche pour Saint-Eustache grossit le raisin qui tache.
+DTSTAMP:20250920T000000
+DTSTART;VALUE=DATE:20250920T000000
+DTEND;VALUE=DATE:20250920T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A la Saint Matthieu les jours sont egaux aux nuits dans leur cours
+DTSTAMP:20250921T000000
+DESCRIPTION:🌱Quand vient Saint-Matthieu, a l'ete on dit adieu.
+DTSTART;VALUE=DATE:20250921T000000
+DTEND;VALUE=DATE:20250921T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Seme tes pois a la Saint-Maurice, tu en auras a ton caprice.
+DTSTAMP:20250922T000000
+DESCRIPTION:🌱Gelee blanche aura le cul lave\n🌱(Nord)
+DTSTART;VALUE=DATE:20250922T000000
+DTEND;VALUE=DATE:20250922T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Quand les grenouilles coassent point de gelees ne menassent\n🌱(Haute-Saone)
+DTSTAMP:20250923T000000
+DTSTART;VALUE=DATE:20250923T000000
+DTEND;VALUE=DATE:20250923T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A la Saint-Gerard, les noix sont mures pour toi et pour moi.
+DTSTAMP:20250924T000000
+DESCRIPTION:🌱A la Saint-Anatole, confiture dans la casserole.
+DTSTART;VALUE=DATE:20250924T000000
+DTEND;VALUE=DATE:20250924T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A la Saint-Firmin, les bles battent au vent.
+DTSTAMP:20250925T000000
+DESCRIPTION:🌱A la Saint-Firmin, l'hiver est en chemin\n🌱A la Saint-Firmin, les beaux jours rebroussent chemin.
+DTSTART;VALUE=DATE:20250925T000000
+DTEND;VALUE=DATE:20250925T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Brouillard d'automne beau temps nous donne\n🌱(Saintonge)
+DTSTAMP:20250926T000000
+DTSTART;VALUE=DATE:20250926T000000
+DTEND;VALUE=DATE:20250926T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Chat qui se frotte l'oreille temps vif qui se reveille\n🌱(Herault)
+DTSTAMP:20250927T000000
+DTSTART;VALUE=DATE:20250927T000000
+DTEND;VALUE=DATE:20250927T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Forte chaleur en septembre, a pluie d'octobre, il faut s'attendre.
+DTSTAMP:20250928T000000
+DTSTART;VALUE=DATE:20250928T000000
+DTEND;VALUE=DATE:20250928T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Quand le vent est au nord le jour de la Saint Michel, le mois d'octobre est au sec.
+DTSTAMP:20250929T000000
+DESCRIPTION:🌱Quand les hirondelles voient la Saint-Michel, l'hiver ne vient qu'a Noel\n🌱Pluie de Saint-Michel sans orage, d'un hiver clement le presage\n🌱A la Saint-Michel, depart d'hirondelles\n🌱A la Saint-Michel, tue l'abeille et goute le miel\n🌱Toutes les pluies perdues, a Saint-Michel rendues\n🌱Bise a la Saint-Michel, octobre sec.
+DTSTART;VALUE=DATE:20250929T000000
+DTEND;VALUE=DATE:20250929T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A la Saint-Jerome, garcon, il faut prendre de ta charrue des manchons.
+DTSTAMP:20250930T000000
+DTSTART;VALUE=DATE:20250930T000000
+DTEND;VALUE=DATE:20250930T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Si ton grain mouille a Saint-Remy, compte sur un parfait semis.
+DTSTAMP:20251001T000000
+DESCRIPTION:🌱En octobre qui ne fume bien ne recolte rien\n🌱(Poitou)
+DTSTART;VALUE=DATE:20251001T000000
+DTEND;VALUE=DATE:20251001T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A la Saint-Leger, il faut se purger.
+DTSTAMP:20251002T000000
+DTSTART;VALUE=DATE:20251002T000000
+DTEND;VALUE=DATE:20251002T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Si octobre est trop chaud, en fevrier, la glace est au carreau.
+DTSTAMP:20251003T000000
+DTSTART;VALUE=DATE:20251003T000000
+DTEND;VALUE=DATE:20251003T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Seme a la Saint Francois tu auras du ble bon poids\n🌱(Deux-Sevres)
+DTSTAMP:20251004T000000
+DTSTART;VALUE=DATE:20251004T000000
+DTEND;VALUE=DATE:20251004T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A la Saint-Placide, le verger est vide.
+DTSTAMP:20251005T000000
+DESCRIPTION:🌱Qui laboure au mouille ne laboure qu'a moitie\n🌱(Poitou)
+DTSTART;VALUE=DATE:20251005T000000
+DTEND;VALUE=DATE:20251005T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A la Saint-Bruno, les feuilles tombent dans le bo [bois].
+DTSTAMP:20251006T000000
+DTSTART;VALUE=DATE:20251006T000000
+DTEND;VALUE=DATE:20251006T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A la Saint-Serge, la charrue en terre pour niveler les taupinieres.
+DTSTAMP:20251007T000000
+DTSTART;VALUE=DATE:20251007T000000
+DTEND;VALUE=DATE:20251007T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱En octobre qui ne fume rien, ne recolte rien.
+DTSTAMP:20251008T000000
+DTSTART;VALUE=DATE:20251008T000000
+DTEND;VALUE=DATE:20251008T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Beau temps a la Saint-Denis, l'hiver sera bientot fini.
+DTSTAMP:20251009T000000
+DESCRIPTION:🌱S'il pleut le jour de Saint-Denis, tout l'hiver aura de la pluie.
+DTSTART;VALUE=DATE:20251009T000000
+DTEND;VALUE=DATE:20251009T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Temps pluvieux a la Sainte-Ghislaine, la fin du mois s'annonce vilaine.
+DTSTAMP:20251010T000000
+DESCRIPTION:🌱Temps sec a la Saint-Ghislain annonce un hiver d'eau plein.
+DTSTART;VALUE=DATE:20251010T000000
+DTEND;VALUE=DATE:20251010T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A la Saint Firmin, l'hiver est en chemin
+DTSTAMP:20251011T000000
+DTSTART;VALUE=DATE:20251011T000000
+DTEND;VALUE=DATE:20251011T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Saint-Wilfrid ensoleille, deux jours plus tard emmitoufle.
+DTSTAMP:20251012T000000
+DESCRIPTION:🌱Octobre est bon s'il est de saison.
+DTSTART;VALUE=DATE:20251012T000000
+DTEND;VALUE=DATE:20251012T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱L'ete de Saint Geraud ne dure que trois jours.
+DTSTAMP:20251013T000000
+DTSTART;VALUE=DATE:20251013T000000
+DTEND;VALUE=DATE:20251013T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Beaucoup de pluie en octobre, beaucoup de vent en decembre.
+DTSTAMP:20251014T000000
+DTSTART;VALUE=DATE:20251014T000000
+DTEND;VALUE=DATE:20251014T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Souvent Sainte-Therese nous apporte un petit ete.
+DTSTAMP:20251015T000000
+DESCRIPTION:🌱Le bon semer est quinze jours avant Toussaint, et quinze jours apres\n🌱A la Sainte-Aurelie, semailles sont finies.
+DTSTART;VALUE=DATE:20251015T000000
+DTEND;VALUE=DATE:20251015T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Quand de Saint-Gall arrive l'heure, la vache a l'etable demeure.
+DTSTAMP:20251016T000000
+DTSTART;VALUE=DATE:20251016T000000
+DTEND;VALUE=DATE:20251016T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Si octobre est chaud, fevrier sera froid.
+DTSTAMP:20251017T000000
+DTSTART;VALUE=DATE:20251017T000000
+DTEND;VALUE=DATE:20251017T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A la Saint-Luc, ne seme plus, ou seme dru.
+DTSTAMP:20251018T000000
+DESCRIPTION:🌱Octobre ensoleille, decembre emmitoufle.
+DTSTART;VALUE=DATE:20251018T000000
+DTEND;VALUE=DATE:20251018T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Pour la Saint-Rene, des vetements chauds tu remets.
+DTSTAMP:20251019T000000
+DTSTART;VALUE=DATE:20251019T000000
+DTEND;VALUE=DATE:20251019T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Octobre glace, fait vermine trepasser.
+DTSTAMP:20251020T000000
+DESCRIPTION:🌱Gelee du jour de Saint-Caprais se ressent trois semaines apres.
+DTSTART;VALUE=DATE:20251020T000000
+DTEND;VALUE=DATE:20251020T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A la Saint-Severin, chauffe tes reins.
+DTSTAMP:20251021T000000
+DESCRIPTION:🌱A la Sainte-Ursule, le temps parfois est un petit printemps\n🌱A la Sainte-Ursule, le froid recule.
+DTSTART;VALUE=DATE:20251021T000000
+DTEND;VALUE=DATE:20251021T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Pour la Saint-Vallier, le bois doit etre rentre au bucher.
+DTSTAMP:20251022T000000
+DTSTART;VALUE=DATE:20251022T000000
+DTEND;VALUE=DATE:20251022T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Gelee d'octobre rend le vigneron sobre.
+DTSTAMP:20251023T000000
+DTSTART;VALUE=DATE:20251023T000000
+DTEND;VALUE=DATE:20251023T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Souvent a la Saint-Florentin, l'hiver laisse le chemin.
+DTSTAMP:20251024T000000
+DTSTART;VALUE=DATE:20251024T000000
+DTEND;VALUE=DATE:20251024T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A la Saint Crepin, les mouches voient leur fin.
+DTSTAMP:20251025T000000
+DTSTART;VALUE=DATE:20251025T000000
+DTEND;VALUE=DATE:20251025T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A la Saint-Amand, sont murs les glands.
+DTSTAMP:20251026T000000
+DTSTART;VALUE=DATE:20251026T000000
+DTEND;VALUE=DATE:20251026T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A la Sainte Antoinette, la neige s'apprete.
+DTSTAMP:20251027T000000
+DTSTART;VALUE=DATE:20251027T000000
+DTEND;VALUE=DATE:20251027T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A la Saint-Remi, la grande chaleur est finie
+DTSTAMP:20251028T000000
+DTSTART;VALUE=DATE:20251028T000000
+DTEND;VALUE=DATE:20251028T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Octobre au coin du feu, fait venir le leu (loup).
+DTSTAMP:20251029T000000
+DTSTART;VALUE=DATE:20251029T000000
+DTEND;VALUE=DATE:20251029T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Si octobre s'emplit de vents, du froid tu patiras longtemps.
+DTSTAMP:20251030T000000
+DESCRIPTION:🌱Si octobre se fait froid, du vin chaud tu boiras.
+DTSTART;VALUE=DATE:20251030T000000
+DTEND;VALUE=DATE:20251030T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Le vent soufflera les trois quarts de l'annee comme il souffle la veille de la Toussaint.
+DTSTAMP:20251031T000000
+DESCRIPTION:🌱A la Saint-Quentin, la chaleur a sa fin.
+DTSTART;VALUE=DATE:20251031T000000
+DTEND;VALUE=DATE:20251031T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱a la Toussaint, commence l'ete de la Saint-Martin.
+DTSTAMP:20251101T000000
+DESCRIPTION:🌱Vent de Toussaint, terreur de marin\n🌱 Suivant le temps de la Toussaint, l'hiver sera ou non malsain\n🌱De la Toussaint a la fin de l'Avent, jamais trop de pluie ou de vent\n🌱 Telle Toussaint tel Noel, et Paques pareil\n🌱Autant d'heures de soleil a la Toussaint, autant de semaines a souffler dans tes mains\n🌱La Toussaint venue, rentre la charrue.
+DTSTART;VALUE=DATE:20251101T000000
+DTEND;VALUE=DATE:20251101T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Le 2 novembre est le jour des morts, si tu ne veux pas mourir encore, habille-toi plus fort.
+DTSTAMP:20251102T000000
+DESCRIPTION:🌱En novembre s'il tonne, l'annee sera bonne\n🌱Novembre est le jour des morts, si tu ne veux pas mourir encore, habille-toi plus fort.
+DTSTART;VALUE=DATE:20251102T000000
+DTEND;VALUE=DATE:20251102T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A la Saint Hubert, les oies sauvages fuient l'hiver.
+DTSTAMP:20251103T000000
+DESCRIPTION:🌱Brouillard en novembre, l'hiver sera tendre.
+DTSTART;VALUE=DATE:20251103T000000
+DTEND;VALUE=DATE:20251103T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A la Saint Charles la gelee parle.
+DTSTAMP:20251104T000000
+DTSTART;VALUE=DATE:20251104T000000
+DTEND;VALUE=DATE:20251104T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Quand en novembre tu entends la grive chanter, rentre a la maison pour t'abriter et du bois pour te chauffer.
+DTSTAMP:20251105T000000
+DESCRIPTION:🌱Le cinq tu sauras, quel mois tu auras.
+DTSTART;VALUE=DATE:20251105T000000
+DTEND;VALUE=DATE:20251105T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A la Sainte-Melanie de la pluie n'en veux mie.
+DTSTAMP:20251106T000000
+DTSTART;VALUE=DATE:20251106T000000
+DTEND;VALUE=DATE:20251106T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A la Saint-Ernest, Abats les pommes qui te restent.
+DTSTAMP:20251107T000000
+DTSTART;VALUE=DATE:20251107T000000
+DTEND;VALUE=DATE:20251107T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Temps couvert a la Saint Geoffroy amene trois jours de froid.
+DTSTAMP:20251108T000000
+DTSTART;VALUE=DATE:20251108T000000
+DTEND;VALUE=DATE:20251108T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Brumes en novembre, Noel en d ecembre.
+DTSTAMP:20251109T000000
+DESCRIPTION:🌱Orage de la Saint-Theodore, annonce une annee en or.
+DTSTART;VALUE=DATE:20251109T000000
+DTEND;VALUE=DATE:20251109T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A la Saint-Leon, mets tes artichauts en monts.
+DTSTAMP:20251110T000000
+DESCRIPTION:🌱Soleil rouge le matin, fait trembler le marin.
+DTSTART;VALUE=DATE:20251110T000000
+DTEND;VALUE=DATE:20251110T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱La temperature du jour de la saint Martin doit etre celle de l'hiver\n🌱(Loire)
+DTSTAMP:20251111T000000
+DESCRIPTION:🌱Le temps du jour de Saint-Martin, est de l'hiver le temps commun\n🌱 A la Saint-Martin, tout vieux boit du vin, ensuite, en boit qui en a\n🌱 Si l'hiver va droit son chemin, vous l'aurez a la Saint-Martin\n🌱 Ete de la Saint-Martin, dure trois jours et un brin\n🌱Si la lune est a son croissant a la Saint-Martin, c'est le signe d'un hiver mou et pluvieux\n🌱La pleine lune a la Saint-Martin donne abondance de neige\n🌱 Il fait beau de semer son grain quand est beau l'ete de la Saint-Martin\n🌱Quand Saint-Martin amene le vent d'autan, cela dure six mois par an.
+DTSTART;VALUE=DATE:20251111T000000
+DTEND;VALUE=DATE:20251111T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱En novembre, fou engendre, en aout git sa femme.
+DTSTAMP:20251112T000000
+DESCRIPTION:🌱Temps sanguin, annonce pluie du lendemain.
+DTSTART;VALUE=DATE:20251112T000000
+DTEND;VALUE=DATE:20251112T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Tel jour Saint Brice, tel jour Noel, tel premier janvier.
+DTSTAMP:20251113T000000
+DTSTART;VALUE=DATE:20251113T000000
+DTEND;VALUE=DATE:20251113T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Hiver trop beau,  et e sans eau.
+DTSTAMP:20251114T000000
+DTSTART;VALUE=DATE:20251114T000000
+DTEND;VALUE=DATE:20251114T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Saint-Leopold voit la premiere neige du mois.
+DTSTAMP:20251115T000000
+DESCRIPTION:🌱a la Saint-L eopold, couvre-toi les  epaules.
+DTSTART;VALUE=DATE:20251115T000000
+DTEND;VALUE=DATE:20251115T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Quand en automne il a tonn e, l'hiver est avort e.
+DTSTAMP:20251116T000000
+DESCRIPTION:🌱A la Saint-Matthieu les jours sont egaux aux nuits dans leur cours\n🌱 Quand vient Saint-Matthieu, adieu l'ete\n🌱Brouillard en novembre, l'hiver sera tendre.
+DTSTART;VALUE=DATE:20251116T000000
+DTEND;VALUE=DATE:20251116T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Sainte-Elisabeth nous montre quel bonhomme l'hiver sera.
+DTSTAMP:20251117T000000
+DESCRIPTION:🌱A la Sainte- elizabeth, tout ce qui porte fourrure n'est point bete\n🌱 A la mi-novembre passee, il peut venter et neiger a souhait.
+DTSTART;VALUE=DATE:20251117T000000
+DTEND;VALUE=DATE:20251117T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Quand en novembre il a tonn e, l'hiver est avort e.
+DTSTAMP:20251118T000000
+DTSTART;VALUE=DATE:20251118T000000
+DTEND;VALUE=DATE:20251118T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A la Saint-Tanguy, jamais vent ne languit.
+DTSTAMP:20251119T000000
+DESCRIPTION:🌱A la Saint-Tanguy, le temps est toujours gris.
+DTSTART;VALUE=DATE:20251119T000000
+DTEND;VALUE=DATE:20251119T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Saint-Felix et la Presentation amenent le froid pour de bon.
+DTSTAMP:20251120T000000
+DTSTART;VALUE=DATE:20251120T000000
+DTEND;VALUE=DATE:20251120T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Quand en novembre tu entends la grive chanter, rentre a la maison pour t'abriter et du bois pour te chauffer.
+DTSTAMP:20251121T000000
+DTSTART;VALUE=DATE:20251121T000000
+DTEND;VALUE=DATE:20251121T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Pour la Sainte-Cecile, chaque feve en fait mille.
+DTSTAMP:20251122T000000
+DTSTART;VALUE=DATE:20251122T000000
+DTEND;VALUE=DATE:20251122T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Saint-Clement montre rarement visage avenant.
+DTSTAMP:20251123T000000
+DTSTART;VALUE=DATE:20251123T000000
+DTEND;VALUE=DATE:20251123T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱a la Sainte Flora, Noel dans 1 mois !
+DTSTAMP:20251124T000000
+DESCRIPTION:🌱A la Sainte-Flora, plus rien ne fleurira.
+DTSTART;VALUE=DATE:20251124T000000
+DTEND;VALUE=DATE:20251124T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A la Sainte Catherine, l'hiver s'achemine ; s'il fait froid, hiver tout droit.
+DTSTAMP:20251125T000000
+DESCRIPTION:🌱Quand Sainte-Catherine au ciel fait la moue, il faut patauger longtemps dans la boue\n🌱 A la Sainte-Catherine, tout arbre prend racine\n🌱 Pour Sainte-Catherine, tout bois prend racine\n🌱 A la Sainte-Catherine, pour tout l'hiver fait ta farine\n🌱 A Sainte-Catherine fais moudre ton ble, car a Saint-Andre le bief sera gele\n🌱 Pour Sainte-Catherine, le porc couine\n🌱 A la Sainte-Catherine que le ble ait germe, que l'herbe commence a poindre\n🌱 A la Sainte-Catherine, les sardines tournent l'echine, a la Sainte-Blaise elles reparaissent\n🌱 Sainte-Catherine toute fille veut la feter, mais point ne veut la coiffer\n🌱A la Sainte-Catherine, l'hiver s'achemine ; s'il fait froid, hiver tout droit.
+DTSTART;VALUE=DATE:20251125T000000
+DTEND;VALUE=DATE:20251125T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A la Sainte-Delphine, mets ton manteau a pelerine.
+DTSTAMP:20251126T000000
+DTSTART;VALUE=DATE:20251126T000000
+DTEND;VALUE=DATE:20251126T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱En novembre fou engendre, en aout git sa femme.
+DTSTAMP:20251127T000000
+DTSTART;VALUE=DATE:20251127T000000
+DTEND;VALUE=DATE:20251127T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱S'il neige a la Saint-Hilaire, il fera froid tout l'hiver.
+DTSTAMP:20251128T000000
+DTSTART;VALUE=DATE:20251128T000000
+DTEND;VALUE=DATE:20251128T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Quand en novembre, la pluie noie la terre, ce sera du bien pour tout l'hiver.
+DTSTAMP:20251129T000000
+DESCRIPTION:🌱A la Saint-Saturnin, l'hiver est pour demain.
+DTSTART;VALUE=DATE:20251129T000000
+DTEND;VALUE=DATE:20251129T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A la Saint Andre les petites betes chassent les grosses du pre\n🌱(Charentes)
+DTSTAMP:20251130T000000
+DESCRIPTION:🌱A la Saint-Andre, quiconque ait porc, qu'il lui donne sur le poil (qu'il le tue)\n🌱 A la Saint-Andre la nuit, l'emporte sur le jour qui suit\n🌱 A la Saint-Andr e, l'hiver dit : Me voici !  La neige dit : a Saint-Andr e, si ne suis, bientot je serai\n🌱 Neige de Saint-Andre, peut cent jours durer\n🌱Quand l'hiver n'est pas presse, il arrive a la Saint-Andre\n🌱 Pour Saint-Andre, l'hiver est vite ici\n🌱La neige de Saint-Andre, menace cent jours de durer.
+DTSTART;VALUE=DATE:20251130T000000
+DTEND;VALUE=DATE:20251130T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Lorsque Saint Eloi a bien froid, quatre mois dure le grand froid
+DTSTAMP:20251201T000000
+DESCRIPTION:🌱Tel Avent, tel printemps.
+DTSTART;VALUE=DATE:20251201T000000
+DTEND;VALUE=DATE:20251201T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Temps clair a la Sainte-Viviane, temps clair pendant quarante jours et une semane.
+DTSTAMP:20251202T000000
+DESCRIPTION:🌱Quand secs sont les avants, abondant sera l'an.
+DTSTART;VALUE=DATE:20251202T000000
+DTEND;VALUE=DATE:20251202T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Huit jours de neige, c'est fumure, huit jours au-dela, c'est poison.
+DTSTAMP:20251203T000000
+DTSTART;VALUE=DATE:20251203T000000
+DTEND;VALUE=DATE:20251203T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Pour la Sainte Barbe, l'ane se fait la barbe (son poil d'hiver).
+DTSTAMP:20251204T000000
+DESCRIPTION:🌱A la Sainte-Barbe, soleil peu darde.
+DTSTART;VALUE=DATE:20251204T000000
+DTEND;VALUE=DATE:20251204T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Si decembre et janvier ne font leur chemin, fevrier fait le lutin.
+DTSTAMP:20251205T000000
+DTSTART;VALUE=DATE:20251205T000000
+DTEND;VALUE=DATE:20251205T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A la Saint Nicolas, l'hiver est souvent las
+DTSTAMP:20251206T000000
+DESCRIPTION:🌱Neige a la Saint-Nicolas donne froid pour trois mois\n🌱Le jour de la Saint-Nicolas decembre est le moins froid.
+DTSTART;VALUE=DATE:20251206T000000
+DTEND;VALUE=DATE:20251206T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Quand Saint Ambroise fait neiger, de huit jours froids gare au danger
+DTSTAMP:20251207T000000
+DESCRIPTION:🌱A la Saint-Ambroise, du froid pour huit jours.
+DTSTART;VALUE=DATE:20251207T000000
+DTEND;VALUE=DATE:20251207T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Jour de l'Immaculee ne se passe jamais sans gelee.
+DTSTAMP:20251208T000000
+DTSTART;VALUE=DATE:20251208T000000
+DTEND;VALUE=DATE:20251208T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱De Sainte-Leocadie a Saint-Nicaise (14 decembre) les gelees naissent.
+DTSTAMP:20251209T000000
+DTSTART;VALUE=DATE:20251209T000000
+DTEND;VALUE=DATE:20251209T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Si le soleil luit a la Sainte Eulalie, pommes et poires a la folie
+DTSTAMP:20251210T000000
+DESCRIPTION:🌱A la Sainte-Julie, le soleil ne quitte pas son lit.
+DTSTART;VALUE=DATE:20251210T000000
+DTEND;VALUE=DATE:20251210T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Visite les ruches a la Saint-Daniel, mais garde-toi d'oter le miel.
+DTSTAMP:20251211T000000
+DESCRIPTION:🌱Tel temps a la Saint-Daniel, meme temps a Noel.
+DTSTART;VALUE=DATE:20251211T000000
+DTEND;VALUE=DATE:20251211T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A la Saint-Corentin, le plein hiver glace le chemin.
+DTSTAMP:20251212T000000
+DTSTART;VALUE=DATE:20251212T000000
+DTEND;VALUE=DATE:20251212T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A la Sainte Luce, les jours avancent du saut d'une puce
+DTSTAMP:20251213T000000
+DTSTART;VALUE=DATE:20251213T000000
+DTEND;VALUE=DATE:20251213T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A la Saint-Nicaise, le renard est souvent Blaise.
+DTSTAMP:20251214T000000
+DESCRIPTION:🌱Quand en hiver est ete mais en ete l'hivernee, cette contrariete ne fit jamais bonne annee.
+DTSTART;VALUE=DATE:20251214T000000
+DTEND;VALUE=DATE:20251214T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Soleil de Sainte-Nina, Pour un long hiver rentre ton bois.
+DTSTAMP:20251215T000000
+DESCRIPTION:🌱A la Saint-Ninon, decembre trop beau, ete dans l'eau.
+DTSTART;VALUE=DATE:20251215T000000
+DTEND;VALUE=DATE:20251215T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Froid et neige en decembre, du ble a revendre.
+DTSTAMP:20251216T000000
+DTSTART;VALUE=DATE:20251216T000000
+DTEND;VALUE=DATE:20251216T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A la Saint-Jean, quelques jours clements.
+DTSTAMP:20251217T000000
+DTSTART;VALUE=DATE:20251217T000000
+DTEND;VALUE=DATE:20251217T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A la Saint-Gatien, Vilain, ramasse ton bois, et endors-toi.
+DTSTAMP:20251218T000000
+DESCRIPTION:🌱A la Saint-Gatien, le temps ne vaut rien.
+DTSTART;VALUE=DATE:20251218T000000
+DTEND;VALUE=DATE:20251218T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Decembre aux pieds blancs s'en vient : an de neige est an de bien.
+DTSTAMP:20251219T000000
+DESCRIPTION:🌱Hiver rude et tardif, rend le pommier productif.
+DTSTART;VALUE=DATE:20251219T000000
+DTEND;VALUE=DATE:20251219T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Au vingt de Noel, les jours rallongent d'un pas d'hirondelle.
+DTSTAMP:20251220T000000
+DTSTART;VALUE=DATE:20251220T000000
+DTEND;VALUE=DATE:20251220T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A la Saint-Thomas, les jours sont au plus bas.
+DTSTAMP:20251221T000000
+DESCRIPTION:🌱S'il gele a la Saint-Thomas, il gelera pour trois mois.
+DTSTART;VALUE=DATE:20251221T000000
+DTEND;VALUE=DATE:20251221T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Autant de jours d'hiver passes, autant d'ennemis renverses.
+DTSTAMP:20251222T000000
+DESCRIPTION:🌱Neige de decembre est engrais pour la terre.
+DTSTART;VALUE=DATE:20251222T000000
+DTEND;VALUE=DATE:20251222T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Decembre prend, il ne rend.
+DTSTAMP:20251223T000000
+DTSTART;VALUE=DATE:20251223T000000
+DTEND;VALUE=DATE:20251223T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Entre Sainte-Adele et Saint-Vincent (22 janvier) les gelees ont plus de mordant.
+DTSTAMP:20251224T000000
+DESCRIPTION:🌱Beau temps a Sainte-Adele est un cadeau du ciel.
+DTSTART;VALUE=DATE:20251224T000000
+DTEND;VALUE=DATE:20251224T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Pluie de Sainte Eugenie met le travailleur a la gene, mais si le soleil pompe de l'eau, c'est signe de huit jours chauds.
+DTSTAMP:20251225T000000
+DESCRIPTION:🌱Lune de noel gouverne le temps jusqu'a la Saint-Jean\n🌱Soleil a Noel, neige a Paques\n🌱Le jour de Noel humide, donne grenier et tonneau vides\n🌱Quand pour Noel on s'ensoleille, pour Paques on brule le bois.
+DTSTART;VALUE=DATE:20251225T000000
+DTEND;VALUE=DATE:20251225T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱S'il pleut a la Saint Denis, l'hiver sera humide et sans glace.
+DTSTAMP:20251226T000000
+DESCRIPTION:🌱Les jours croissent a la Saint-Etienne d'une aiguillee de laine.
+DTSTART;VALUE=DATE:20251226T000000
+DTEND;VALUE=DATE:20251226T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱A la Saint-Jean d'hiver, les feux sont grands.
+DTSTAMP:20251227T000000
+DESCRIPTION:🌱Les jours entre Noel et les Rois, indiquent le temps des douze mois.
+DTSTART;VALUE=DATE:20251227T000000
+DTEND;VALUE=DATE:20251227T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Decembre trop beau, l'ete dans l'eau.
+DTSTAMP:20251228T000000
+DESCRIPTION:🌱S'il neige a la Sainte-Eleonore, les recoltes seront d'or\n🌱Decembre trop beau, l'ete sera dans l'eau.
+DTSTART;VALUE=DATE:20251228T000000
+DTEND;VALUE=DATE:20251228T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Les froids de Saint-Evroult sont des froids de loup.
+DTSTAMP:20251229T000000
+DTSTART;VALUE=DATE:20251229T000000
+DTEND;VALUE=DATE:20251229T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Quand il tonne hors saison, pluie et neige sans raison
+DTSTAMP:20251230T000000
+DTSTART;VALUE=DATE:20251230T000000
+DTEND;VALUE=DATE:20251230T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱Saint-Sylvestre ne peut etre qu'une fois l'an, c'est la veille du premier de l'an.
+DTSTAMP:20251231T000000
+DESCRIPTION:🌱Pour la Saint-Sylvestre le soleil entre par la porte et la fenetre.
+DTSTART;VALUE=DATE:20251231T000000
+DTEND;VALUE=DATE:20251231T000000
+RRULE:FREQ=YEARLY
+END:VEVENT
+END:VCALENDAR
